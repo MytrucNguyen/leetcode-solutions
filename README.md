@@ -4,8 +4,8 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-5/3000-blue)
-![Easy](https://img.shields.io/badge/easy-5-green)
+![Problems Solved](https://img.shields.io/badge/solved-6/3000-blue)
+![Easy](https://img.shields.io/badge/easy-6-green)
 ![Medium](https://img.shields.io/badge/medium-0-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -18,6 +18,7 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts) | | Easy | String, Two Pointers |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 
 ## Repository Structure
 ```
