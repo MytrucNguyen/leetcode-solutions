@@ -4,9 +4,9 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-14/3000-blue)
+![Problems Solved](https://img.shields.io/badge/solved-15/3000-blue)
 ![Easy](https://img.shields.io/badge/easy-11-green)
-![Medium](https://img.shields.io/badge/medium-3-orange)
+![Medium](https://img.shields.io/badge/medium-4-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -14,6 +14,7 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 | # | Title | Python | TypeScript | C# | Difficulty | Topics |
 |---|-------|--------|------------|-----|------------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [✓](./problems/easy/0001-two-sum/python/solution.py) | [✓](./problems/easy/0001-two-sum/typescript/solution.ts) | [✓](./problems/easy/0001-two-sum/csharp/Solution.cs) | Easy | Array, Hash Table |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | | [✓](./problems/medium/0002-add-two-numbers/typescript/solution.ts) | | Medium | Linked List, Math, Recursion |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | [✓](./problems/medium/0003-longest-substring-without-repeating-characters/typescript/solution.ts) | | Medium | Hash Table, String, Sliding Window |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | | [✓](./problems/medium/0015-3sum/typescript/solution.ts) | | Medium | Array, Two Pointers, Sorting |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [✓](./problems/easy/0020-valid-parentheses/python/solution.py) | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
