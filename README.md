@@ -4,9 +4,9 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-16/3000-blue)
+![Problems Solved](https://img.shields.io/badge/solved-17/3000-blue)
 ![Easy](https://img.shields.io/badge/easy-11-green)
-![Medium](https://img.shields.io/badge/medium-5-orange)
+![Medium](https://img.shields.io/badge/medium-6-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -28,6 +28,7 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts) | | Easy | Array, Hash Table, Sorting |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | [✓](./problems/medium/0238-product-of-array-except-self/typescript/solution.ts) | | Medium | Array, Prefix Sum |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | | [✓](./problems/easy/0268-missing-number/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Bit Manipulation |
 
 ## Repository Structure
