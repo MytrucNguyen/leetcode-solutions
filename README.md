@@ -4,8 +4,8 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-24/3000-blue)
-![Easy](https://img.shields.io/badge/easy-12-green)
+![Problems Solved](https://img.shields.io/badge/solved-25/3000-blue)
+![Easy](https://img.shields.io/badge/easy-13-green)
 ![Medium](https://img.shields.io/badge/medium-12-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -37,6 +37,7 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | [✓](./problems/medium/0238-product-of-array-except-self/typescript/solution.ts) | | Medium | Array, Prefix Sum |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | | [✓](./problems/easy/0242-valid-anagram/typescript/solution.ts) | | Easy | Hash Table, String, Sorting |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | | [✓](./problems/easy/0268-missing-number/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Bit Manipulation |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | [✓](./problems/easy/0283-move-zeroes/typescript/solution.ts) | | Easy | Array, Two Pointers |
 
 ## Repository Structure
 ```
