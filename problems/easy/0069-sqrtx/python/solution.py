@@ -17,8 +17,8 @@ class Solution(object):
 
         # Keep searching while there's a valid range
         while left <= right:
-            mid = left + (right - left) / 2
-
+            mid = left + (right - left) // 2  
+            
             # Check if mid is the exact square root
             if(mid == (x / mid)):
                 return mid
