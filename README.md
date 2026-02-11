@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-41/3892-blue)
-![Easy](https://img.shields.io/badge/easy-28-green)
+![Problems Solved](https://img.shields.io/badge/solved-42/3892-blue)
+![Easy](https://img.shields.io/badge/easy-29-green)
 ![Medium](https://img.shields.io/badge/medium-13-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -146,6 +146,7 @@ npm test 0001-two-sum
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | | [✓](./problems/medium/0146-lru-cache/typescript/solution.ts) | | Medium | Hash Table, Linked List, Design, Doubly-Linked List |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | | [✓](./problems/easy/0169-majority-element/typescript/solution.ts) | | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts) | | Medium | Array, Depth-First Search, Breadth-First Search, Matrix |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | | [✓](./problems/easy/0202-happy-number/typescript/solution.ts) | | Easy | Hash Table, Math, Two Pointers |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts) | | Easy | Array, Hash Table, Sorting |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
