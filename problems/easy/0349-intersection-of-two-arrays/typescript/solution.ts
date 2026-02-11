@@ -1,20 +1,13 @@
-export function intersect(nums1: number[], nums2: number[]): number[] {
-  const map = new Map<number, number>();
+export function intersection(nums1: number[], nums2: number[]): number[] {
+  const set1 = new Set(nums1);
 
-  for (const num of nums1) {
-    map.set(num, (map.get(num) || 0) + 1);
-  }
-
-  const result: number[] = [];
+  const resultSet = new Set<number>();
 
   for (const num of nums2) {
-    const count = map.get(num) || 0;
-
-    if (count > 0) {
-      result.push(num);
-      map.set(num, count - 1); 
+    if (set1.has(num)) {
+      resultSet.add(num);
     }
   }
 
-  return result;
+  return Array.from(resultSet);
 }
