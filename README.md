@@ -139,7 +139,7 @@ npm test 0001-two-sum
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | | [✓](./problems/easy/0101-symmetric-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | [✓](./problems/easy/0104-maximum-depth-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | | [✓](./problems/easy/0118-pascals-triangle/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/python/solution.py) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts) | | Easy | String, Two Pointers |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | | [✓](./problems/easy/0136-single-number/typescript/solution.ts) | | Easy | Array, Bit Manipulation |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | | [✓](./problems/easy/0141-linked-list-cycle/typescript/solution.ts) | | Easy | Hash Table, Linked List, Two Pointers |
