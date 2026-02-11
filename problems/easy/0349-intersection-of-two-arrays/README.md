@@ -1,64 +1,47 @@
-# 1. Two Sum
+# 349. Intersection of Two Arrays
 
 **Difficulty:** Easy  
-**Topics:** Array, Hash Table  
-**Link:** [LeetCode Problem](https://leetcode.com/problems/two-sum/)
+**Topics:** Array, Hash Table, Two Pointers, Binary Search, Sorting  
+**Link:** [LeetCode Problem](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 ## Problem Description
 
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
-
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-
-You can return the answer in any order.
+Given two integer arrays `nums1` and `nums2`, return an array of their **intersection**. Each element in the result must be **unique** and you may return the result in **any order**.
 
 ### Examples
 
 **Example 1:**
 ```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Input: nums1 = [1,2,2,1], nums2 = [2,2]
+Output: [2]
 ```
 
 **Example 2:**
 ```
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
-```
-
-**Example 3:**
-```
-Input: nums = [3,3], target = 6
-Output: [0,1]
+Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
+Output: [9,4]
+Explanation: [4,9] is also accepted.
 ```
 
 ### Constraints
 
-- `2 <= nums.length <= 10^4`
-- `-10^9 <= nums[i] <= 10^9`
-- `-10^9 <= target <= 10^9`
-- Only one valid answer exists.
+- `1 <= nums1.length, nums2.length <= 1000`
+- `0 <= nums1[i], nums2[i] <= 1000`
 
 ## Approach
 
-### Brute Force (Not Implemented)
-Check every pair of numbers to see if they sum to the target.
-- **Time Complexity:** O(n²)
-- **Space Complexity:** O(1)
-
-### Hash Map (Optimal)
-Use a hash map to store numbers we've seen and their indices. For each number, check if `target - current number` exists in the map.
+### Hash Set
+Convert one array to a set and check which elements from the other array exist in it.
 
 **Algorithm:**
-1. Create an empty hash map
-2. Iterate through the array
-3. For each number, calculate `complement = target - current number`
-4. If complement exists in hash map, return `[hash_map[complement], current_index]`
-5. Otherwise, store `current number: current_index` in hash map
+1. Convert nums1 to a Set (removes duplicates automatically)
+2. Create a result Set
+3. Iterate through nums2
+4. For each element, if it exists in the nums1 Set, add to result Set
+5. Convert result Set to array and return
 
-**Time Complexity:** O(n) - Single pass through array  
-**Space Complexity:** O(n) - Hash map storage
+**Time Complexity:** O(n + m) - Two passes  
+**Space Complexity:** O(n + m) - Two sets
 
 ## Solutions
 
@@ -68,6 +51,7 @@ Use a hash map to store numbers we've seen and their indices. For each number, c
 
 ## Key Takeaways
 
-- Hash maps are excellent for lookups in O(1) time
-- Trading space for time is a common optimization pattern
-- Always consider the complement when looking for pairs that sum to a target
+- Use Set to automatically handle uniqueness
+- Set lookups are O(1)
+- Converting array to Set removes duplicates
+- Simple and efficient for finding unique intersection
