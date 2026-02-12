@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-43/3892-blue)
-![Easy](https://img.shields.io/badge/easy-30-green)
+![Problems Solved](https://img.shields.io/badge/solved-44/3892-blue)
+![Easy](https://img.shields.io/badge/easy-31-green)
 ![Medium](https://img.shields.io/badge/medium-13-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -140,7 +140,7 @@ npm test 0001-two-sum
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | [✓](./problems/easy/0104-maximum-depth-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | | [✓](./problems/easy/0118-pascals-triangle/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/python/solution.py) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts) | | Easy | String, Two Pointers |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [✓](./problems/easy/0125-valid-palindrome/python/solution.py) | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts) | | Easy | String, Two Pointers |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | | [✓](./problems/easy/0136-single-number/typescript/solution.ts) | | Easy | Array, Bit Manipulation |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | | [✓](./problems/easy/0141-linked-list-cycle/typescript/solution.ts) | | Easy | Hash Table, Linked List, Two Pointers |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | | [✓](./problems/medium/0146-lru-cache/typescript/solution.ts) | | Medium | Hash Table, Linked List, Design, Doubly-Linked List |
@@ -157,5 +157,6 @@ npm test 0001-two-sum
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | [✓](./problems/easy/0283-move-zeroes/typescript/solution.ts) | | Easy | Array, Two Pointers |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | | [✓](./problems/easy/0344-reverse-string/typescript/solution.ts) | | Easy | Two Pointers, String |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | | [✓](./problems/easy/0349-intersection-of-two-arrays/typescript/solution.ts) | | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | | [✓](./problems/easy/0367-valid-perfect-square/typescript/solution.ts) | | Easy | Math, Binary Search |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | | [✓](./problems/easy/0509-fibonacci-number/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
