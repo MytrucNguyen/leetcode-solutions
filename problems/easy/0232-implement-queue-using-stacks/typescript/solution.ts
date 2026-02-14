@@ -1,4 +1,4 @@
-class MyQueue {
+export class MyQueue {
   private inStack: number[];
   private outStack: number[];
 
