@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-50/3892-blue)
-![Easy](https://img.shields.io/badge/easy-36-green)
+![Problems Solved](https://img.shields.io/badge/solved-51/3892-blue)
+![Easy](https://img.shields.io/badge/easy-37-green)
 ![Medium](https://img.shields.io/badge/medium-14-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -152,6 +152,7 @@ npm test 0001-two-sum
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | | [✓](./problems/easy/0202-happy-number/typescript/solution.ts) | | Easy | Hash Table, Math, Two Pointers |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts) | | Easy | Array, Hash Table, Sorting |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | | [✓](./problems/easy/0225-implement-stack-using-queues/typescript/solution.ts) | | Easy | Stack, Queue, Design |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | | [✓](./problems/easy/0231-power-of-two/typescript/solution.ts) | | Easy | Math, Bit Manipulation |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | | [✓](./problems/easy/0232-implement-queue-using-stacks/typescript/solution.ts) | | Easy | Stack, Queue, Design |
