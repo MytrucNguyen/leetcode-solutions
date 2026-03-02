@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-60/3892-blue)
-![Easy](https://img.shields.io/badge/easy-44-green)
+![Problems Solved](https://img.shields.io/badge/solved-61/3892-blue)
+![Easy](https://img.shields.io/badge/easy-45-green)
 ![Medium](https://img.shields.io/badge/medium-16-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -128,6 +128,7 @@ npm test 0001-two-sum
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [✓](./problems/easy/0020-valid-parentheses/python/solution.py) | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [✓](./problems/easy/0021-merge-two-sorted-lists/python/solution.py) | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | | [✓](./problems/easy/0026-remove-duplicates-from-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | | [✓](./problems/easy/0027-remove-element/typescript/solution.ts) | | Easy | Array, Two Pointers |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | [✓](./problems/medium/0033-search-in-rotated-sorted-array/typescript/solution.ts) | | Medium | Array, Binary Search |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts) | | Medium | Array, Math, Matrix |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts) | | Medium | Array, Hash Table, String, Sorting |
