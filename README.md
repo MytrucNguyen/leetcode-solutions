@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-62/3892-blue)
-![Easy](https://img.shields.io/badge/easy-46-green)
+![Problems Solved](https://img.shields.io/badge/solved-63/3892-blue)
+![Easy](https://img.shields.io/badge/easy-47-green)
 ![Medium](https://img.shields.io/badge/medium-16-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -178,4 +178,5 @@ npm test 0001-two-sum
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | [✓](./problems/easy/0543-diameter-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | | [✓](./problems/easy/0605-can-place-flowers/typescript/solution.ts) | | Easy | Array, Greedy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
+| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts) | | Easy | Array, Sorting |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
