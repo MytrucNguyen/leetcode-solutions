@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-65/3892-blue)
-![Easy](https://img.shields.io/badge/easy-49-green)
+![Problems Solved](https://img.shields.io/badge/solved-66/3892-blue)
+![Easy](https://img.shields.io/badge/easy-50-green)
 ![Medium](https://img.shields.io/badge/medium-16-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -161,6 +161,7 @@ npm test 0001-two-sum
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [✓](./problems/easy/0217-contains-duplicate/python/solution.py) | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts) | | Easy | Array, Hash Table, Sorting |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | | [✓](./problems/easy/0225-implement-stack-using-queues/typescript/solution.ts) | | Easy | Stack, Queue, Design |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | | [✓](./problems/easy/0228-summary-ranges/typescript/solution.ts) | | Easy | Array |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | | [✓](./problems/easy/0231-power-of-two/typescript/solution.ts) | | Easy | Math, Bit Manipulation |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | | [✓](./problems/easy/0232-implement-queue-using-stacks/typescript/solution.ts) | | Easy | Stack, Queue, Design |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | | [✓](./problems/easy/0234-palindrome-linked-list/typescript/solution.ts) | | Easy | Linked List, Two Pointers, Stack |
