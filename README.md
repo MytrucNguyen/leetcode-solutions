@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-68/3892-blue)
-![Easy](https://img.shields.io/badge/easy-52-green)
+![Problems Solved](https://img.shields.io/badge/solved-69/3892-blue)
+![Easy](https://img.shields.io/badge/easy-53-green)
 ![Medium](https://img.shields.io/badge/medium-16-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -184,4 +184,5 @@ npm test 0001-two-sum
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | | [✓](./problems/easy/0674-longest-continuous-increasing-subsequence/typescript/solution.ts) | | Easy | Array |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts) | | Easy | Array, Sorting |
+| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | | [✓](./problems/easy/0922-sort-array-by-parity-ii/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
