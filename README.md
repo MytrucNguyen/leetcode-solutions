@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-69/3892-blue)
-![Easy](https://img.shields.io/badge/easy-53-green)
+![Problems Solved](https://img.shields.io/badge/solved-70/3892-blue)
+![Easy](https://img.shields.io/badge/easy-54-green)
 ![Medium](https://img.shields.io/badge/medium-16-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -186,3 +186,4 @@ npm test 0001-two-sum
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts) | | Easy | Array, Sorting |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | | [✓](./problems/easy/0922-sort-array-by-parity-ii/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | | [✓](./problems/easy/1512-number-of-good-pairs/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Counting |
