@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-72/3892-blue)
-![Easy](https://img.shields.io/badge/easy-55-green)
+![Problems Solved](https://img.shields.io/badge/solved-73/3892-blue)
+![Easy](https://img.shields.io/badge/easy-56-green)
 ![Medium](https://img.shields.io/badge/medium-17-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -175,6 +175,7 @@ npm test 0001-two-sum
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | | [✓](./problems/easy/0344-reverse-string/typescript/solution.ts) | | Easy | Two Pointers, String |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | | [✓](./problems/easy/0349-intersection-of-two-arrays/typescript/solution.ts) | | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | | [✓](./problems/easy/0367-valid-perfect-square/typescript/solution.ts) | | Easy | Math, Binary Search |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | | [✓](./problems/easy/0383-ransom-note/typescript/solution.ts) | | Easy | String, Hash Table, Counting |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | | [✓](./problems/easy/0387-first-unique-character-in-a-string/typescript/solution.ts) | | Easy | String, Hash Table, Queue, Counting |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | | [✓](./problems/easy/0392-is-subsequence/typescript/solution.ts) | | Easy | String, Two Pointers, Dynamic Programming |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | | [✓](./problems/easy/0414-third-maximum-number/typescript/solution.ts) | | Easy | Array, Sorting |
