@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-74/3892-blue)
-![Easy](https://img.shields.io/badge/easy-57-green)
+![Problems Solved](https://img.shields.io/badge/solved-75/3892-blue)
+![Easy](https://img.shields.io/badge/easy-58-green)
 ![Medium](https://img.shields.io/badge/medium-17-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -189,5 +189,6 @@ npm test 0001-two-sum
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts) | | Easy | Array, Sorting |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | | [✓](./problems/easy/0922-sort-array-by-parity-ii/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
+| 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | | [✓](./problems/easy/0941-valid-mountain-array/typescript/solution.ts) | | Easy | Array |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | | [✓](./problems/easy/1512-number-of-good-pairs/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Counting |
