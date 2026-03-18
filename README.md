@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-75/3892-blue)
-![Easy](https://img.shields.io/badge/easy-58-green)
+![Problems Solved](https://img.shields.io/badge/solved-76/3892-blue)
+![Easy](https://img.shields.io/badge/easy-59-green)
 ![Medium](https://img.shields.io/badge/medium-17-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -191,4 +191,5 @@ npm test 0001-two-sum
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | | [✓](./problems/easy/0922-sort-array-by-parity-ii/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | | [✓](./problems/easy/0941-valid-mountain-array/typescript/solution.ts) | | Easy | Array |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | | [✓](./problems/easy/1480-running-sum-of-1d-array/typescript/solution.ts) | | Easy | Array, Prefix Sum |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | | [✓](./problems/easy/1512-number-of-good-pairs/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Counting |
