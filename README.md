@@ -107,9 +107,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-90/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-91/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-28-orange)
+![Medium](https://img.shields.io/badge/medium-29-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -142,6 +142,7 @@ npm test 0001-two-sum
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [✓](./problems/easy/0070-climbing-stairs/python/solution.py) | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Memoization |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | | [✓](./problems/medium/0073-set-matrix-zeroes/typescript/solution.ts) | | Medium | Array, Hash Table, Matrix |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | | [✓](./problems/medium/0075-sort-colors/typescript/solution.ts) | | Medium | Array, Two Pointers, Sorting |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | | [✓](./problems/medium/0078-subsets/typescript/solution.ts) | | Medium | Array, Backtracking, Bit Manipulation |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [✓](./problems/easy/0088-merge-sorted-array/python/solution.py) | [✓](./problems/easy/0088-merge-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | | [✓](./problems/easy/0094-binary-tree-inorder-traversal/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Stack, Binary Tree |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | | [✓](./problems/easy/0100-same-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
