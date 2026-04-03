@@ -107,9 +107,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-92/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-93/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-30-orange)
+![Medium](https://img.shields.io/badge/medium-31-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -157,6 +157,7 @@ npm test 0001-two-sum
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | | [✓](./problems/easy/0136-single-number/typescript/solution.ts) | | Easy | Array, Bit Manipulation |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | | [✓](./problems/easy/0141-linked-list-cycle/typescript/solution.ts) | | Easy | Hash Table, Linked List, Two Pointers |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | | [✓](./problems/medium/0146-lru-cache/typescript/solution.ts) | | Medium | Hash Table, Linked List, Design, Doubly-Linked List |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | | [✓](./problems/medium/0153-find-minimum-in-rotated-sorted-array/typescript/solution.ts) | | Medium | Array, Binary Search |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | | [✓](./problems/easy/0160-intersection-of-two-linked-lists/typescript/solution.ts) | | Easy | Hash Table, Linked List, Two Pointers |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | [✓](./problems/medium/0167-two-sum-ii-input-array-is-sorted/typescript/solution.ts) | | Medium | Array, Two Pointers, Binary Search |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | | [✓](./problems/easy/0169-majority-element/typescript/solution.ts) | | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting |
