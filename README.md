@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-95/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-96/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-33-orange)
+![Medium](https://img.shields.io/badge/medium-34-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -209,6 +209,7 @@ npm test 0001-two-sum
 | 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                   |                                                                              | [✓](./problems/medium/0560-subarray-sum-equals-k/typescript/solution.ts)                          |                                                      | Medium     | Array, Hash Table, Prefix Sum                            |
 | 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                               |                                                                              | [✓](./problems/easy/0572-subtree-of-another-tree/typescript/solution.ts)                          |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                           |                                                                              | [✓](./problems/easy/0605-can-place-flowers/typescript/solution.ts)                                |                                                      | Easy       | Array, Greedy                                            |
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | | [✓](./problems/medium/0647-palindromic-substrings/typescript/solution.ts) | | Medium | String, Dynamic Programming |
 | 674  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)           |                                                                              | [✓](./problems/easy/0674-longest-continuous-increasing-subsequence/typescript/solution.ts)        |                                                      | Easy       | Array                                                    |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   |                                                                              | [✓](./problems/easy/0704-binary-search/typescript/solution.ts)                                    |                                                      | Easy       | Array, Binary Search                                     |
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                             |                                                                              | [✓](./problems/easy/0724-find-pivot-index/typescript/solution.ts)                                 |                                                      | Easy       | Array, Prefix Sum                                        |
