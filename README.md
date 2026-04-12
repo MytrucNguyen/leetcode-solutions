@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-101/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-102/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-39-orange)
+![Medium](https://img.shields.io/badge/medium-40-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -168,6 +168,7 @@ npm test 0001-two-sum
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | [✓](./problems/easy/0125-valid-palindrome/python/solution.py)                | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts)                                 |                                                      | Easy       | String, Two Pointers                                     |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                     |                                                                              | [✓](./problems/medium/0128-longest-consecutive-sequence/typescript/solution.ts)                   |                                                      | Medium     | Array, Hash Table, Union Find                            |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                                                                   |                                                                              | [✓](./problems/easy/0136-single-number/typescript/solution.ts)                                    |                                                      | Easy       | Array, Bit Manipulation                                  |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | | [✓](./problems/medium/0139-word-break/typescript/solution.ts) | | Medium | String, Dynamic Programming, Hash Table |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                           |                                                                              | [✓](./problems/easy/0141-linked-list-cycle/typescript/solution.ts)                                |                                                      | Easy       | Hash Table, Linked List, Two Pointers                    |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                           |                                                                              | [✓](./problems/medium/0146-lru-cache/typescript/solution.ts)                                      |                                                      | Medium     | Hash Table, Linked List, Design, Doubly-Linked List      |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | | [✓](./problems/medium/0151-reverse-words-in-a-string/typescript/solution.ts) | | Medium | String, Two Pointers |
