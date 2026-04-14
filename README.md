@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-103/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-104/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-41-orange)
+![Medium](https://img.shields.io/badge/medium-42-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -156,6 +156,7 @@ npm test 0001-two-sum
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | | [✓](./problems/medium/0074-search-a-2d-matrix/typescript/solution.ts) | | Medium | Array, Binary Search, Matrix |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                       |                                                                              | [✓](./problems/medium/0075-sort-colors/typescript/solution.ts)                                    |                                                      | Medium     | Array, Two Pointers, Sorting                             |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/)                                                                               |                                                                              | [✓](./problems/medium/0078-subsets/typescript/solution.ts)                                        |                                                      | Medium     | Array, Backtracking, Bit Manipulation                    |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | | [✓](./problems/medium/0079-word-search/typescript/solution.ts) | | Medium | Array, String, Backtracking, Matrix |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                         | [✓](./problems/easy/0088-merge-sorted-array/python/solution.py)              | [✓](./problems/easy/0088-merge-sorted-array/typescript/solution.ts)                               |                                                      | Easy       | Array, Two Pointers, Sorting                             |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | | [✓](./problems/medium/0091-decode-ways/typescript/solution.ts) | | Medium | String, Dynamic Programming |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                   |                                                                              | [✓](./problems/easy/0094-binary-tree-inorder-traversal/typescript/solution.ts)                    |                                                      | Easy       | Tree, Depth-First Search, Stack, Binary Tree             |
