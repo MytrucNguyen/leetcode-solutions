@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-106/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-107/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-44-orange)
+![Medium](https://img.shields.io/badge/medium-45-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -162,6 +162,7 @@ npm test 0001-two-sum
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                   |                                                                              | [✓](./problems/easy/0094-binary-tree-inorder-traversal/typescript/solution.ts)                    |                                                      | Easy       | Tree, Depth-First Search, Stack, Binary Tree             |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                           |                                                                              | [✓](./problems/easy/0100-same-tree/typescript/solution.ts)                                        |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                 |                                                                              | [✓](./problems/easy/0101-symmetric-tree/typescript/solution.ts)                                   |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | | [✓](./problems/medium/0102-binary-tree-level-order-traversal/typescript/solution.ts) | | Medium | Tree, Breadth-First Search, Binary Tree |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     |                                                                              | [✓](./problems/easy/0104-maximum-depth-of-binary-tree/typescript/solution.ts)                     |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
 | 108  | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-height-balanced-bst/)                       |                                                                              | [✓](./problems/easy/0108-convert-sorted-array-to-bst/typescript/solution.ts)                      |                                                      | Easy       | Array, Divide and Conquer, Tree, Binary Search Tree      |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                            |                                                                              | [✓](./problems/easy/0118-pascals-triangle/typescript/solution.ts)                                 |                                                      | Easy       | Array, Dynamic Programming                               |
