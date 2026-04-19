@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-108/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-109/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-46-orange)
+![Medium](https://img.shields.io/badge/medium-47-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -188,6 +188,7 @@ npm test 0001-two-sum
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                         |                                                                              | [✓](./problems/easy/0205-isomorphic-strings/typescript/solution.ts)                               |                                                      | Easy       | String, Hash Table                                       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       |                                                                              | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts)                              |                                                      | Easy       | Linked List, Recursion                                   |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | | [✓](./problems/medium/0207-course-schedule/typescript/solution.ts) | | Medium | Depth-First Search, Graph, Topological Sort |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | | [✓](./problems/medium/0215-kth-largest-element-in-an-array/typescript/solution.ts) | | Medium | Array, Heap, Sorting |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [✓](./problems/easy/0217-contains-duplicate/python/solution.py)              | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts)                               |                                                      | Easy       | Array, Hash Table, Sorting                               |
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   |                                                                              | [✓](./problems/easy/0219-contains-duplicate-ii/typescript/solution.ts)                            |                                                      | Easy       | Array, Hash Table, Sliding Window                        |
 | 225  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                     |                                                                              | [✓](./problems/easy/0225-implement-stack-using-queues/typescript/solution.ts)                     |                                                      | Easy       | Stack, Queue, Design                                     |
