@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-109/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-110/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-47-orange)
+![Medium](https://img.shields.io/badge/medium-48-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -197,6 +197,7 @@ npm test 0001-two-sum
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                     |                                                                              | [✓](./problems/easy/0231-power-of-two/typescript/solution.ts)                                     |                                                      | Easy       | Math, Bit Manipulation                                   |
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                     |                                                                              | [✓](./problems/easy/0232-implement-queue-using-stacks/typescript/solution.ts)                     |                                                      | Easy       | Stack, Queue, Design                                     |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                 |                                                                              | [✓](./problems/easy/0234-palindrome-linked-list/typescript/solution.ts)                           |                                                      | Easy       | Linked List, Two Pointers, Stack                         |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | | [✓](./problems/medium/0236-lowest-common-ancestor-of-a-binary-tree/typescript/solution.ts) | | Medium | Tree, Depth-First Search, Binary Tree |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     |                                                                              | [✓](./problems/medium/0238-product-of-array-except-self/typescript/solution.ts)                   |                                                      | Medium     | Array, Prefix Sum                                        |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   |                                                                              | [✓](./problems/easy/0242-valid-anagram/typescript/solution.ts)                                    |                                                      | Easy       | Hash Table, String, Sorting                              |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 |                                                                              | [✓](./problems/easy/0268-missing-number/typescript/solution.ts)                                   |                                                      | Easy       | Array, Hash Table, Math, Bit Manipulation                |
