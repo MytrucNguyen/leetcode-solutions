@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-110/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-111/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-48-orange)
+![Medium](https://img.shields.io/badge/medium-49-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -160,6 +160,7 @@ npm test 0001-two-sum
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                         | [✓](./problems/easy/0088-merge-sorted-array/python/solution.py)              | [✓](./problems/easy/0088-merge-sorted-array/typescript/solution.ts)                               |                                                      | Easy       | Array, Two Pointers, Sorting                             |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | | [✓](./problems/medium/0091-decode-ways/typescript/solution.ts) | | Medium | String, Dynamic Programming |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                   |                                                                              | [✓](./problems/easy/0094-binary-tree-inorder-traversal/typescript/solution.ts)                    |                                                      | Easy       | Tree, Depth-First Search, Stack, Binary Tree             |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | | [✓](./problems/medium/0098-validate-binary-search-tree/typescript/solution.ts) | | Medium | Tree, Depth-First Search, Binary Search Tree |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                           |                                                                              | [✓](./problems/easy/0100-same-tree/typescript/solution.ts)                                        |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                 |                                                                              | [✓](./problems/easy/0101-symmetric-tree/typescript/solution.ts)                                   |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | | [✓](./problems/medium/0102-binary-tree-level-order-traversal/typescript/solution.ts) | | Medium | Tree, Breadth-First Search, Binary Tree |
