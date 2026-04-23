@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-112/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-113/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-50-orange)
+![Medium](https://img.shields.io/badge/medium-51-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -149,6 +149,7 @@ npm test 0001-two-sum
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                   |                                                                              | [✓](./problems/medium/0054-spiral-matrix/typescript/solution.ts)                                  |                                                      | Medium     | Array, Matrix, Simulation                                |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                           |                                                                              | [✓](./problems/medium/0055-jump-game/typescript/solution.ts)                                      |                                                      | Medium     | Array, Dynamic Programming, Greedy                       |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                               |                                                                              | [✓](./problems/medium/0056-merge-intervals/typescript/solution.ts)                                |                                                      | Medium     | Array, Sorting                                           |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | | [✓](./problems/medium/0057-insert-interval/typescript/solution.ts) | | Medium | Array, Intervals |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | [✓](./problems/easy/0066-plus-one/python/solution.py)                        | [✓](./problems/easy/0066-plus-one/typescript/solution.ts)                                         |                                                      | Easy       | Array, Math                                              |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                 | [✓](./problems/easy/0069-sqrtx/python/solution.py)                           | [✓](./problems/easy/0069-sqrtx/typescript/solution.ts)                                            |                                                      | Easy       | Math, Binary Search                                      |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | [✓](./problems/easy/0070-climbing-stairs/python/solution.py)                 | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts)                                  |                                                      | Easy       | Math, Dynamic Programming, Memoization                   |
