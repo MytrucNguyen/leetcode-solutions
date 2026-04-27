@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-116/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-117/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-54-orange)
+![Medium](https://img.shields.io/badge/medium-55-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -128,6 +128,7 @@ npm test 0001-two-sum
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               |                                                                              | [✓](./problems/medium/0002-add-two-numbers/typescript/solution.ts)                                |                                                      | Medium     | Linked List, Math, Recursion                             |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |                                                                              | [✓](./problems/medium/0003-longest-substring-without-repeating-characters/typescript/solution.ts) |                                                      | Medium     | Hash Table, String, Sliding Window                       |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   |                                                                              | [✓](./problems/medium/0005-longest-palindromic-substring/typescript/solution.ts)                  |                                                      | Medium     | String, Dynamic Programming                              |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | [✓](./problems/medium/0008-string-to-integer/typescript/solution.ts) | | Medium | String |
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | [✓](./problems/easy/0009-palindrome-number/python/solution.py)               | [✓](./problems/easy/0009-palindrome-number/typescript/solution.ts)                                |                                                      | Easy       | Math                                                     |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           |                                                                              | [✓](./problems/medium/0011-container-with-most-water/typescript/solution.ts)                      |                                                      | Medium     | Array, Two Pointers, Greedy                              |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             |                                                                              | [✓](./problems/easy/0013-roman-to-integer/typescript/solution.ts)                                 |                                                      | Easy       | String, Hash Table, Math                                 |
