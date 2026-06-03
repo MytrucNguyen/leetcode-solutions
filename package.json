@@ -4,7 +4,8 @@
   "description": "Collection of LeetCode solutions in Python, TypeScript, and C# organized by difficulty and topic. Includes detailed explanations, complexity analysis, and multiple approaches where applicable.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "format": "prettier --write \"problems/**/*.ts\""
   },
   "keywords": [],
   "author": "",
@@ -12,6 +13,7 @@
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "jest": "^30.2.0",
+    "prettier": "^3.8.1",
     "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
