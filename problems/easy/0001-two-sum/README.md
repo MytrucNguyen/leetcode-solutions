@@ -62,9 +62,9 @@ Use a hash map to store numbers we've seen and their indices. For each number, c
 
 ## Solutions
 
-- [Python Solution](./solution.py)
-- [TypeScript Solution](./solution.ts)
-- [C# Solution](./Solution.cs)
+- [C# Solution](./csharp/Solution.cs)
+- [Python Solution](./python/solution.py)
+- [TypeScript Solution](./typescript/solution.ts)
 
 ## Key Takeaways
 
