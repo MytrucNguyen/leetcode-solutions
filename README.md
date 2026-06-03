@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-128/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-129/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-63-green)
-![Medium](https://img.shields.io/badge/medium-63-orange)
+![Medium](https://img.shields.io/badge/medium-64-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 
 ## Problems
@@ -186,6 +186,7 @@ npm test 0001-two-sum
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     |                                                                              | [✓](./problems/medium/0153-find-minimum-in-rotated-sorted-array/typescript/solution.ts)           |                                                      | Medium     | Array, Binary Search                                     |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | | [✓](./problems/medium/0155-min-stack/typescript/solution.ts) | | Medium | Stack, Design |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                             |                                                                              | [✓](./problems/easy/0160-intersection-of-two-linked-lists/typescript/solution.ts)                 |                                                      | Easy       | Hash Table, Linked List, Two Pointers                    |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | | [✓](./problems/medium/0162-find-peak-element/typescript/solution.ts) | | Medium | Array, Binary Search |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           |                                                                              | [✓](./problems/medium/0167-two-sum-ii-input-array-is-sorted/typescript/solution.ts)               |                                                      | Medium     | Array, Two Pointers, Binary Search                       |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             |                                                                              | [✓](./problems/easy/0169-majority-element/typescript/solution.ts)                                 |                                                      | Easy       | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | | [✓](./problems/medium/0179-largest-number/typescript/solution.ts) | | Medium | String, Greedy, Sorting |
