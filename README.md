@@ -115,8 +115,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-132/3892-blue)
-![Easy](https://img.shields.io/badge/easy-65-green)
+![Problems Solved](https://img.shields.io/badge/solved-133/3892-blue)
+![Easy](https://img.shields.io/badge/easy-66-green)
 ![Medium](https://img.shields.io/badge/medium-64-orange)
 ![Hard](https://img.shields.io/badge/hard-3-red)
 
@@ -141,6 +141,7 @@ npm test 0001-two-sum
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     |                                                                              | [✓](./problems/medium/0022-generate-parentheses/typescript/solution.ts)                           |                                                      | Medium     | String, Dynamic Programming, Backtracking                |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       |                                                                              | [✓](./problems/easy/0026-remove-duplicates-from-sorted-array/typescript/solution.ts)              |                                                      | Easy       | Array, Two Pointers                                      |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                 |                                                                              | [✓](./problems/easy/0027-remove-element/typescript/solution.ts)                                   |                                                      | Easy       | Array, Two Pointers                                      |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | | [✓](./problems/easy/0028-find-the-index-of-the-first-occurrence-in-a-string/typescript/solution.ts) | | Easy | String, Two Pointers, String Matching |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 |                                                                              | [✓](./problems/medium/0033-search-in-rotated-sorted-array/typescript/solution.ts)                 |                                                      | Medium     | Array, Binary Search                                     |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | [✓](./problems/medium/0034-find-first-and-last-position-of-element-in-sorted-array/typescript/solution.ts) | | Medium | Array, Binary Search |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 |                                                                              | [✓](./problems/easy/0035-search-insert-position/typescript/solution.ts)                           |                                                      | Easy       | Array, Binary Search                                     |
