@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Collection of LeetCode solutions in Python, TypeScript, and C# organized by difficulty and topic. Includes detailed explanations, complexity analysis, and multiple approaches where applicable.
+My collection of LeetCode solutions organized by difficulty and topic. Each problem includes explanations, performance notes, and different approaches when applicable.
 
 ## Progress
 
@@ -23,36 +23,29 @@ Collection of LeetCode solutions in Python, TypeScript, and C# organized by diff
 problems/
 └── [difficulty]/
     └── [problem-number-name]/
-        ├── csharp/
+        ├── csharp/ (optional)
         │   └── Solution.cs
-        ├── csharp-tests/
+        ├── csharp-tests/ (optional)
         │   └── SolutionTests.cs
-        ├── python/
+        ├── python/ (optional)
         │   ├── solution.py
         │   └── test_solution.py
-        ├── typescript/
+        ├── typescript/ (optional)
         │   ├── solution.ts
         │   └── solution.test.ts
         └── README.md
 ```
 
-Each problem folder contains:
+Each problem may contain solutions in one or more languages:
 - **C#**
-  - `csharp/` - Solution project
-    - `Solution.cs` - C# solution
-  - `csharp-tests/` - Test project
-    - `SolutionTests.cs` - xUnit test cases
-
+  - `csharp/Solution.cs` - C# solution
+  - `csharp-tests/SolutionTests.cs` - xUnit test cases
 - **Python**
-  - `python/` - Python solutions
-    - `solution.py` - Python solution with LeetCode class format
-    - `test_solution.py` - unittest test cases
-
+  - `python/solution.py` - Python solution with LeetCode class format
+  - `python/test_solution.py` - unittest test cases
 - **TypeScript**
-  - `typescript/` - TypeScript solutions
-    - `solution.ts` - TypeScript solution with comments
-    - `solution.test.ts` - Jest test cases
-
+  - `typescript/solution.ts` - TypeScript solution with comments
+  - `typescript/solution.test.ts` - Jest test cases
 - `README.md` - Problem description, approach, complexity analysis
 
 ## How to Use
@@ -63,31 +56,17 @@ Each problem folder contains:
 cd problems/[difficulty]/[problem-number-name]/csharp
 dotnet new classlib -n [FunctionName]CSharp -o .
 mv Class1.cs Solution.cs  # Rename to Solution.cs
+# Edit Solution.cs with your code
 
 # Create test project (first time only)
 cd ../csharp-tests
 dotnet new xunit -n [FunctionName].Tests -o .
 mv UnitTest1.cs SolutionTests.cs  # Rename to SolutionTests.cs
 dotnet add reference ../csharp/[FunctionName]CSharp.csproj
+# Edit SolutionTests.cs with your tests
 
 # Run tests (from anywhere)
 dotnet test problems/[difficulty]/[problem-number-name]/csharp-tests
-```
-
-**Example:**
-```bash
-# Setup for Two Sum
-cd problems/easy/0001-two-sum/csharp
-dotnet new classlib -n TwoSumCSharp -o .
-mv Class1.cs Solution.cs
-
-cd ../csharp-tests
-dotnet new xunit -n TwoSum.Tests -o .
-mv UnitTest1.cs SolutionTests.cs
-dotnet add reference ../csharp/TwoSumCSharp.csproj
-
-# Run tests from root
-dotnet test problems/easy/0001-two-sum/csharp-tests
 ```
 
 ### Python
@@ -99,11 +78,6 @@ python problems/[difficulty]/[problem-number-name]/python/test_solution.py
 python problems/[difficulty]/[problem-number-name]/python/test_solution.py -v
 ```
 
-**Example:**
-```bash
-python problems/easy/0001-two-sum/python/test_solution.py
-```
-
 ### TypeScript
 ```bash
 # Run all tests from root
@@ -111,11 +85,6 @@ npm test
 
 # Run specific problem tests
 npm test [problem-number-name]
-```
-
-**Example:**
-```bash
-npm test 0001-two-sum
 ```
 
 ## Testing Frameworks
