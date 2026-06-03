@@ -113,11 +113,11 @@ npm test 0001-two-sum
 
 ---
 
-## Progress
+### Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-146/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-147/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-70-green)
-![Medium](https://img.shields.io/badge/medium-72-orange)
+![Medium](https://img.shields.io/badge/medium-73-orange)
 ![Hard](https://img.shields.io/badge/hard-4-red)
 
 ## Problems
@@ -186,6 +186,7 @@ npm test 0001-two-sum
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                           |                                                                              | [✓](./problems/medium/0128-longest-consecutive-sequence/typescript/solution.ts)                              |                                                      | Medium     | Array, Hash Table, Union Find                                      |
 | 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                                     |                                                                              | [✓](./problems/medium/0131-palindrome-partitioning/typescript/solution.ts)                                   |                                                      | Medium     | String, Dynamic Programming, Backtracking                          |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                                             |                                                                              | [✓](./problems/medium/0133-clone-graph/typescript/solution.ts)                                               |                                                      | Medium     | Hash Table, Depth-First Search, Graph                              |
+| 134  | [Gas Station](https://leetcode.com/problems/gas-station/)                                                                                             |                                                                              | [✓](./problems/medium/0134-gas-station/typescript/solution.ts)                                               |                                                      | Medium     | Array, Greedy                                                      |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                                                                                         |                                                                              | [✓](./problems/easy/0136-single-number/typescript/solution.ts)                                               |                                                      | Easy       | Array, Bit Manipulation                                            |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                                                         |                                                                              | [✓](./problems/medium/0138-copy-list-with-random-pointer/typescript/solution.ts)                             |                                                      | Medium     | Hash Table, Linked List                                            |
 | 139  | [Word Break](https://leetcode.com/problems/word-break/)                                                                                               |                                                                              | [✓](./problems/medium/0139-word-break/typescript/solution.ts)                                                |                                                      | Medium     | String, Dynamic Programming, Hash Table                            |
