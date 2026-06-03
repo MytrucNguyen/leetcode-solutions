@@ -4,8 +4,8 @@ Collection of LeetCode solutions in Python, TypeScript, and C# organized by diff
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-1/3000-blue)
-![Easy](https://img.shields.io/badge/easy-1-green)
+![Problems Solved](https://img.shields.io/badge/solved-2/3000-blue)
+![Easy](https://img.shields.io/badge/easy-2-green)
 ![Medium](https://img.shields.io/badge/medium-0-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -14,12 +14,13 @@ Collection of LeetCode solutions in Python, TypeScript, and C# organized by diff
 | # | Title | Python | TypeScript | C# | Difficulty | Topics |
 |---|-------|--------|------------|-----|------------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [✓](./problems/easy/0001-two-sum/python/solution.py) | [✓](./problems/easy/0001-two-sum/typescript/solution.ts) | [✓](./problems/easy/0001-two-sum/csharp/Solution.cs) | Easy | Array, Hash Table |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
 
 ## Repository Structure
 ```
 problems/
-└── easy/
-    └── 0001-two-sum/
+└── [difficulty]/
+    └── [problem-number-name]/
         ├── csharp/
         │   └── Solution.cs
         ├── csharp-tests/
@@ -59,14 +60,12 @@ cd problems/[difficulty]/[problem-number-name]
 # Create solution project (first time only)
 cd csharp
 dotnet new classlib -n [FunctionName]CSharp -o .
-
 mv Class1.cs Solution.cs  # Rename to Solution.cs
 # Edit Solution.cs with your code
 
 # Create test project (first time only)
 cd ../csharp-tests
 dotnet new xunit -n [FunctionName].Tests -o .
-
 mv UnitTest1.cs SolutionTests.cs  # Rename to SolutionTests.cs
 dotnet add reference ../csharp/[FunctionName]CSharp.csproj
 # Edit SolutionTests.cs with your tests
