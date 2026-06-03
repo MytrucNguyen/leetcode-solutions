@@ -4,9 +4,9 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-23/3000-blue)
+![Problems Solved](https://img.shields.io/badge/solved-24/3000-blue)
 ![Easy](https://img.shields.io/badge/easy-12-green)
-![Medium](https://img.shields.io/badge/medium-11-orange)
+![Medium](https://img.shields.io/badge/medium-12-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -23,6 +23,7 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts) | | Medium | Array, Math, Matrix |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts) | | Medium | Array, Hash Table, String, Sorting |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | | [✓](./problems/medium/0054-spiral-matrix/typescript/solution.ts) | | Medium | Array, Matrix, Simulation |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | [✓](./problems/medium/0056-merge-intervals/typescript/solution.ts) | | Medium | Array, Sorting |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Memoization |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | [✓](./problems/easy/0104-maximum-depth-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
