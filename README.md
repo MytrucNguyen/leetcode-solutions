@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-97/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-98/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-35-orange)
+![Medium](https://img.shields.io/badge/medium-36-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -208,6 +208,7 @@ npm test 0001-two-sum
 | 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                             |                                                                              | [✓](./problems/easy/0509-fibonacci-number/typescript/solution.ts)                                 |                                                      | Easy       | Math, Dynamic Programming, Recursion, Memoization        |
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                               |                                                                              | [✓](./problems/easy/0543-diameter-of-binary-tree/typescript/solution.ts)                          |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
 | 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                   |                                                                              | [✓](./problems/medium/0560-subarray-sum-equals-k/typescript/solution.ts)                          |                                                      | Medium     | Array, Hash Table, Prefix Sum                            |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | | [✓](./problems/medium/0567-permutation-in-string/typescript/solution.ts) | | Medium | String, Hash Table, Sliding Window |
 | 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                               |                                                                              | [✓](./problems/easy/0572-subtree-of-another-tree/typescript/solution.ts)                          |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                           |                                                                              | [✓](./problems/easy/0605-can-place-flowers/typescript/solution.ts)                                |                                                      | Easy       | Array, Greedy                                            |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | | [✓](./problems/medium/0647-palindromic-substrings/typescript/solution.ts) | | Medium | String, Dynamic Programming |
