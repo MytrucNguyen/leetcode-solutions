@@ -2,49 +2,6 @@
 
 My collection of LeetCode solutions organized by difficulty and topic. Each problem includes explanations, performance notes, and different approaches when applicable.
 
-## Progress
-
-![Problems Solved](https://img.shields.io/badge/solved-31/3000-blue)
-![Easy](https://img.shields.io/badge/easy-19-green)
-![Medium](https://img.shields.io/badge/medium-12-orange)
-![Hard](https://img.shields.io/badge/hard-0-red)
-
-## Problems
-
-| # | Title | Python | TypeScript | C# | Difficulty | Topics |
-|---|-------|--------|------------|-----|------------|--------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [✓](./problems/easy/0001-two-sum/python/solution.py) | [✓](./problems/easy/0001-two-sum/typescript/solution.ts) | [✓](./problems/easy/0001-two-sum/csharp/Solution.cs) | Easy | Array, Hash Table |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | | [✓](./problems/medium/0002-add-two-numbers/typescript/solution.ts) | | Medium | Linked List, Math, Recursion |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | [✓](./problems/medium/0003-longest-substring-without-repeating-characters/typescript/solution.ts) | | Medium | Hash Table, String, Sliding Window |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | [✓](./problems/medium/0005-longest-palindromic-substring/typescript/solution.ts) | | Medium | String, Dynamic Programming |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | | [✓](./problems/easy/0009-palindrome-number/typescript/solution.ts) | | Easy | Math |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | | [✓](./problems/medium/0011-container-with-most-water/typescript/solution.ts) | | Medium | Array, Two Pointers, Greedy |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | | [✓](./problems/medium/0015-3sum/typescript/solution.ts) | | Medium | Array, Two Pointers, Sorting |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [✓](./problems/easy/0020-valid-parentheses/python/solution.py) | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [✓](./problems/easy/0021-merge-two-sorted-lists/python/solution.py) | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
-| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts) | | Medium | Array, Math, Matrix |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts) | | Medium | Array, Hash Table, String, Sorting |
-| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | | [✓](./problems/medium/0054-spiral-matrix/typescript/solution.ts) | | Medium | Array, Matrix, Simulation |
-| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | [✓](./problems/medium/0056-merge-intervals/typescript/solution.ts) | | Medium | Array, Sorting |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | | [✓](./problems/easy/0066-plus-one/typescript/solution.ts) | | Easy | Array, Math |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | | [✓](./problems/easy/0069-sqrtx/typescript/solution.ts) | | Easy | Math, Binary Search |
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Memoization |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | | [✓](./problems/easy/0088-merge-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | | [✓](./problems/easy/0100-same-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | [✓](./problems/easy/0104-maximum-depth-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts) | | Easy | String, Two Pointers |
-| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | | [✓](./problems/medium/0146-lru-cache/typescript/solution.ts) | | Medium | Hash Table, Linked List, Design, Doubly-Linked List |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | | [✓](./problems/easy/0169-majority-element/typescript/solution.ts) | | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts) | | Medium | Array, Depth-First Search, Breadth-First Search, Matrix |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts) | | Easy | Linked List, Recursion |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts) | | Easy | Array, Hash Table, Sorting |
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
-| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | [✓](./problems/medium/0238-product-of-array-except-self/typescript/solution.ts) | | Medium | Array, Prefix Sum |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | | [✓](./problems/easy/0242-valid-anagram/typescript/solution.ts) | | Easy | Hash Table, String, Sorting |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | | [✓](./problems/easy/0268-missing-number/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Bit Manipulation |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | [✓](./problems/easy/0283-move-zeroes/typescript/solution.ts) | | Easy | Array, Two Pointers |
-
 ## Repository Structure
 ```
 problems/
@@ -147,3 +104,46 @@ npm test 0001-two-sum
 - **TypeScript**: Jest
 
 ---
+
+## Progress
+
+![Problems Solved](https://img.shields.io/badge/solved-31/3000-blue)
+![Easy](https://img.shields.io/badge/easy-19-green)
+![Medium](https://img.shields.io/badge/medium-12-orange)
+![Hard](https://img.shields.io/badge/hard-0-red)
+
+## Problems
+
+| # | Title | Python | TypeScript | C# | Difficulty | Topics |
+|---|-------|--------|------------|-----|------------|--------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [✓](./problems/easy/0001-two-sum/python/solution.py) | [✓](./problems/easy/0001-two-sum/typescript/solution.ts) | [✓](./problems/easy/0001-two-sum/csharp/Solution.cs) | Easy | Array, Hash Table |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | | [✓](./problems/medium/0002-add-two-numbers/typescript/solution.ts) | | Medium | Linked List, Math, Recursion |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | [✓](./problems/medium/0003-longest-substring-without-repeating-characters/typescript/solution.ts) | | Medium | Hash Table, String, Sliding Window |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | [✓](./problems/medium/0005-longest-palindromic-substring/typescript/solution.ts) | | Medium | String, Dynamic Programming |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | | [✓](./problems/easy/0009-palindrome-number/typescript/solution.ts) | | Easy | Math |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | | [✓](./problems/medium/0011-container-with-most-water/typescript/solution.ts) | | Medium | Array, Two Pointers, Greedy |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | | [✓](./problems/medium/0015-3sum/typescript/solution.ts) | | Medium | Array, Two Pointers, Sorting |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [✓](./problems/easy/0020-valid-parentheses/python/solution.py) | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [✓](./problems/easy/0021-merge-two-sorted-lists/python/solution.py) | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts) | | Medium | Array, Math, Matrix |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts) | | Medium | Array, Hash Table, String, Sorting |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | | [✓](./problems/medium/0054-spiral-matrix/typescript/solution.ts) | | Medium | Array, Matrix, Simulation |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | [✓](./problems/medium/0056-merge-intervals/typescript/solution.ts) | | Medium | Array, Sorting |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | | [✓](./problems/easy/0066-plus-one/typescript/solution.ts) | | Easy | Array, Math |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | | [✓](./problems/easy/0069-sqrtx/typescript/solution.ts) | | Easy | Math, Binary Search |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Memoization |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | | [✓](./problems/easy/0088-merge-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | | [✓](./problems/easy/0100-same-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | [✓](./problems/easy/0104-maximum-depth-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts) | | Easy | String, Two Pointers |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | | [✓](./problems/medium/0146-lru-cache/typescript/solution.ts) | | Medium | Hash Table, Linked List, Design, Doubly-Linked List |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | | [✓](./problems/easy/0169-majority-element/typescript/solution.ts) | | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts) | | Medium | Array, Depth-First Search, Breadth-First Search, Matrix |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts) | | Easy | Linked List, Recursion |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts) | | Easy | Array, Hash Table, Sorting |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | [✓](./problems/medium/0238-product-of-array-except-self/typescript/solution.ts) | | Medium | Array, Prefix Sum |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | | [✓](./problems/easy/0242-valid-anagram/typescript/solution.ts) | | Easy | Hash Table, String, Sorting |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | | [✓](./problems/easy/0268-missing-number/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Bit Manipulation |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | [✓](./problems/easy/0283-move-zeroes/typescript/solution.ts) | | Easy | Array, Two Pointers |
