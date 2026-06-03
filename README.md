@@ -53,26 +53,50 @@ Each problem folder contains:
 
 ### C#
 ```bash
-# Setup 
-cd problems/easy/0001-two-sum/csharp
-dotnet new classlib -n [FunctionName]CSharp -o .
-rm Class1.cs
+# Navigate to problem directory
+cd problems/[difficulty]/[problem-number-name]
 
+# Create solution project (first time only)
+cd csharp
+dotnet new classlib -n [FunctionName]CSharp -o .
+
+mv Class1.cs Solution.cs  # Rename to Solution.cs
+# Edit Solution.cs with your code
+
+# Create test project (first time only)
 cd ../csharp-tests
 dotnet new xunit -n [FunctionName].Tests -o .
 
-rm UnitTest1.cs
+mv UnitTest1.cs SolutionTests.cs  # Rename to SolutionTests.cs
 dotnet add reference ../csharp/[FunctionName]CSharp.csproj
+# Edit SolutionTests.cs with your tests
 
 # Run tests
-cd problems/easy/0001-two-sum
+cd ..
+dotnet test csharp-tests
+```
+
+**Example:**
+```bash
+# Setup for Two Sum
+cd problems/easy/0001-two-sum/csharp
+dotnet new classlib -n TwoSumCSharp -o .
+mv Class1.cs Solution.cs
+
+cd ../csharp-tests
+dotnet new xunit -n TwoSum.Tests -o .
+mv UnitTest1.cs SolutionTests.cs
+dotnet add reference ../csharp/TwoSumCSharp.csproj
+
+# Run tests
+cd ..
 dotnet test csharp-tests
 ```
 
 ### Python
 ```bash
 # Navigate to problem directory
-cd problems/easy/0001-two-sum/python
+cd problems/[difficulty]/[problem-number-name]/python
 
 # Run tests
 python test_solution.py
@@ -81,12 +105,23 @@ python test_solution.py
 python test_solution.py -v
 ```
 
+**Example:**
+```bash
+cd problems/easy/0001-two-sum/python
+python test_solution.py
+```
+
 ### TypeScript
 ```bash
 # Run all tests from root
 npm test
 
 # Run specific problem tests
+npm test [problem-number-name]
+```
+
+**Example:**
+```bash
 npm test 0001-two-sum
 ```
 
