@@ -4,8 +4,8 @@ Collection of LeetCode solutions in Python, TypeScript, and C# organized by diff
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-2/3000-blue)
-![Easy](https://img.shields.io/badge/easy-2-green)
+![Problems Solved](https://img.shields.io/badge/solved-3/3000-blue)
+![Easy](https://img.shields.io/badge/easy-3-green)
 ![Medium](https://img.shields.io/badge/medium-0-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -15,6 +15,7 @@ Collection of LeetCode solutions in Python, TypeScript, and C# organized by diff
 |---|-------|--------|------------|-----|------------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [✓](./problems/easy/0001-two-sum/python/solution.py) | [✓](./problems/easy/0001-two-sum/typescript/solution.ts) | [✓](./problems/easy/0001-two-sum/csharp/Solution.cs) | Easy | Array, Hash Table |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [✓](./problems/easy/0020-valid-parentheses/python/solution.py) | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
 
 ## Repository Structure
 ```
