@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-126/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-127/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-63-green)
-![Medium](https://img.shields.io/badge/medium-61-orange)
+![Medium](https://img.shields.io/badge/medium-62-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 
 ## Problems
@@ -193,6 +193,7 @@ npm test 0001-two-sum
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                     |                                                                              | [✓](./problems/easy/0190-reverse-bits/typescript/solution.ts)                                     |                                                      | Easy       | Divide and Conquer, Bit Manipulation                     |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                             |                                                                              | [✓](./problems/easy/0191-number-of-1-bits/typescript/solution.ts)                                 |                                                      | Easy       | Divide and Conquer, Bit Manipulation                     |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/)                                                                     |                                                                              | [✓](./problems/medium/0198-house-robber/typescript/solution.ts)                                   |                                                      | Medium     | Array, Dynamic Programming                               |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | [✓](./problems/medium/0199-binary-tree-right-side-view/typescript/solution.ts) | | Medium | Tree, Breadth-First Search, Binary Tree |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           |                                                                              | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts)                              |                                                      | Medium     | Array, Depth-First Search, Breadth-First Search, Matrix  |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                     |                                                                              | [✓](./problems/easy/0202-happy-number/typescript/solution.ts)                                     |                                                      | Easy       | Hash Table, Math, Two Pointers                           |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                         |                                                                              | [✓](./problems/easy/0205-isomorphic-strings/typescript/solution.ts)                               |                                                      | Easy       | String, Hash Table                                       |
