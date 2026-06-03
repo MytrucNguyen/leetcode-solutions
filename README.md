@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-120/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-121/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-63-green)
-![Medium](https://img.shields.io/badge/medium-57-orange)
+![Medium](https://img.shields.io/badge/medium-58-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -142,6 +142,7 @@ npm test 0001-two-sum
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       |                                                                              | [✓](./problems/easy/0026-remove-duplicates-from-sorted-array/typescript/solution.ts)              |                                                      | Easy       | Array, Two Pointers                                      |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                 |                                                                              | [✓](./problems/easy/0027-remove-element/typescript/solution.ts)                                   |                                                      | Easy       | Array, Two Pointers                                      |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 |                                                                              | [✓](./problems/medium/0033-search-in-rotated-sorted-array/typescript/solution.ts)                 |                                                      | Medium     | Array, Binary Search                                     |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | [✓](./problems/medium/0034-find-first-and-last-position-of-element-in-sorted-array/typescript/solution.ts) | | Medium | Array, Binary Search |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 |                                                                              | [✓](./problems/easy/0035-search-insert-position/typescript/solution.ts)                           |                                                      | Easy       | Array, Binary Search                                     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)                                                                     |                                                                              | [✓](./problems/medium/0046-permutations/typescript/solution.ts)                                   |                                                      | Medium     | Array, Backtracking                                      |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     |                                                                              | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts)                                   |                                                      | Medium     | Array, Math, Matrix                                      |
