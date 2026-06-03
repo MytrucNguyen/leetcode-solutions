@@ -115,10 +115,10 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-149/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-150/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-70-green)
 ![Medium](https://img.shields.io/badge/medium-75-orange)
-![Hard](https://img.shields.io/badge/hard-4-red)
+![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
 
@@ -182,6 +182,7 @@ npm test 0001-two-sum
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                           |                                                                              | [✓](./problems/easy/0110-balanced-binary-tree/typescript/solution.ts)                                        |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                              |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                                  |                                                                              | [✓](./problems/easy/0118-pascals-triangle/typescript/solution.ts)                                            |                                                      | Easy       | Array, Dynamic Programming                                         |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                     | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/python/solution.py) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts)                             |                                                      | Easy       | Array, Dynamic Programming                                         |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | | [✓](./problems/hard/0124-binary-tree-maximum-path-sum/typescript/solution.ts) | | Hard | Tree, Depth-First Search, Dynamic Programming |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                   | [✓](./problems/easy/0125-valid-palindrome/python/solution.py)                | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts)                                            |                                                      | Easy       | String, Two Pointers                                               |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                           |                                                                              | [✓](./problems/medium/0128-longest-consecutive-sequence/typescript/solution.ts)                              |                                                      | Medium     | Array, Hash Table, Union Find                                      |
 | 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                                     |                                                                              | [✓](./problems/medium/0131-palindrome-partitioning/typescript/solution.ts)                                   |                                                      | Medium     | String, Dynamic Programming, Backtracking                          |
