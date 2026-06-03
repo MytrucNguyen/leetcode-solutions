@@ -107,9 +107,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-84/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-85/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-22-orange)
+![Medium](https://img.shields.io/badge/medium-23-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -175,6 +175,7 @@ npm test 0001-two-sum
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | | [✓](./problems/easy/0242-valid-anagram/typescript/solution.ts) | | Easy | Hash Table, String, Sorting |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | | [✓](./problems/easy/0268-missing-number/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Bit Manipulation |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | [✓](./problems/easy/0283-move-zeroes/typescript/solution.ts) | | Easy | Array, Two Pointers |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | | [✓](./problems/medium/0287-find-the-duplicate-number/typescript/solution.ts) | | Medium | Array, Two Pointers, Binary Search |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | | [✓](./problems/easy/0344-reverse-string/typescript/solution.ts) | | Easy | Two Pointers, String |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | | [✓](./problems/medium/0347-top-k-frequent-elements/typescript/solution.ts) | | Medium | Array, Hash Table, Bucket Sort, Counting |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | | [✓](./problems/easy/0349-intersection-of-two-arrays/typescript/solution.ts) | | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
