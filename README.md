@@ -4,8 +4,8 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-4/3000-blue)
-![Easy](https://img.shields.io/badge/easy-4-green)
+![Problems Solved](https://img.shields.io/badge/solved-5/3000-blue)
+![Easy](https://img.shields.io/badge/easy-5-green)
 ![Medium](https://img.shields.io/badge/medium-0-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -17,6 +17,7 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [✓](./problems/easy/0020-valid-parentheses/python/solution.py) | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts) | | Easy | String, Two Pointers |
 
 ## Repository Structure
 ```
@@ -69,6 +70,22 @@ dotnet add reference ../csharp/[FunctionName]CSharp.csproj
 dotnet test problems/[difficulty]/[problem-number-name]/csharp-tests
 ```
 
+**Example:**
+```bash
+# Setup for Two Sum
+cd problems/easy/0001-two-sum/csharp
+dotnet new classlib -n TwoSumCSharp -o .
+mv Class1.cs Solution.cs
+
+cd ../csharp-tests
+dotnet new xunit -n TwoSum.Tests -o .
+mv UnitTest1.cs SolutionTests.cs
+dotnet add reference ../csharp/TwoSumCSharp.csproj
+
+# Run tests from root
+dotnet test problems/easy/0001-two-sum/csharp-tests
+```
+
 ### Python
 ```bash
 # Run tests from anywhere
@@ -78,6 +95,11 @@ python problems/[difficulty]/[problem-number-name]/python/test_solution.py
 python problems/[difficulty]/[problem-number-name]/python/test_solution.py -v
 ```
 
+**Example:**
+```bash
+python problems/easy/0001-two-sum/python/test_solution.py
+```
+
 ### TypeScript
 ```bash
 # Run all tests from root
@@ -85,6 +107,11 @@ npm test
 
 # Run specific problem tests
 npm test [problem-number-name]
+```
+
+**Example:**
+```bash
+npm test 0001-two-sum
 ```
 
 ## Testing Frameworks
