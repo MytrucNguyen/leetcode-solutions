@@ -133,7 +133,7 @@ npm test 0001-two-sum
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | [✓](./problems/medium/0056-merge-intervals/typescript/solution.ts) | | Medium | Array, Sorting |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [✓](./problems/easy/0066-plus-one/python/solution.py) | [✓](./problems/easy/0066-plus-one/typescript/solution.ts) | | Easy | Array, Math |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [✓](./problems/easy/0069-sqrtx/python/solution.py) | [✓](./problems/easy/0069-sqrtx/typescript/solution.ts) | | Easy | Math, Binary Search |
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Memoization |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [✓](./problems/easy/0070-climbing-stairs/python/solution.py) | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Memoization |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | | [✓](./problems/easy/0088-merge-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | | [✓](./problems/easy/0100-same-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | | [✓](./problems/easy/0101-symmetric-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
