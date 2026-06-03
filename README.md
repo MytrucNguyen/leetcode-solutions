@@ -108,8 +108,8 @@ npm test 0001-two-sum
 ## Progress
 
 ![Problems Solved](https://img.shields.io/badge/solved-35/3000-blue)
-![Easy](https://img.shields.io/badge/easy-23-green)
-![Medium](https://img.shields.io/badge/medium-12-orange)
+![Easy](https://img.shields.io/badge/easy-22-green)
+![Medium](https://img.shields.io/badge/medium-13-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -127,7 +127,7 @@ npm test 0001-two-sum
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [✓](./problems/easy/0021-merge-two-sorted-lists/python/solution.py) | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts) | | Medium | Array, Math, Matrix |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts) | | Medium | Array, Hash Table, String, Sorting |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | | [✓](./problems/easy/0053-maximum-subarray/typescript/solution.ts) | | Easy | Array, Divide and Conquer, Dynamic Programming |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | | [✓](./problems/medium/0053-maximum-subarray/typescript/solution.ts) | | Medium | Array, Divide and Conquer, Dynamic Programming |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | | [✓](./problems/medium/0054-spiral-matrix/typescript/solution.ts) | | Medium | Array, Matrix, Simulation |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | [✓](./problems/medium/0056-merge-intervals/typescript/solution.ts) | | Medium | Array, Sorting |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [✓](./problems/easy/0066-plus-one/python/solution.py) | [✓](./problems/easy/0066-plus-one/typescript/solution.ts) | | Easy | Array, Math |
