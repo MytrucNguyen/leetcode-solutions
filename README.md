@@ -107,9 +107,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-87/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-88/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-25-orange)
+![Medium](https://img.shields.io/badge/medium-26-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -160,6 +160,7 @@ npm test 0001-two-sum
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | | [✓](./problems/medium/0189-rotate-array/typescript/solution.ts) | | Medium | Array, Math, Two Pointers |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | | [✓](./problems/easy/0190-reverse-bits/typescript/solution.ts) | | Easy | Divide and Conquer, Bit Manipulation |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | | [✓](./problems/easy/0191-number-of-1-bits/typescript/solution.ts) | | Easy | Divide and Conquer, Bit Manipulation |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | | [✓](./problems/medium/0198-house-robber/typescript/solution.ts) | | Medium | Array, Dynamic Programming |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts) | | Medium | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | | [✓](./problems/easy/0202-happy-number/typescript/solution.ts) | | Easy | Hash Table, Math, Two Pointers |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | | [✓](./problems/easy/0205-isomorphic-strings/typescript/solution.ts) | | Easy | String, Hash Table |
