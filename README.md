@@ -115,8 +115,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-117/3892-blue)
-![Easy](https://img.shields.io/badge/easy-62-green)
+![Problems Solved](https://img.shields.io/badge/solved-118/3892-blue)
+![Easy](https://img.shields.io/badge/easy-63-green)
 ![Medium](https://img.shields.io/badge/medium-55-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -208,6 +208,7 @@ npm test 0001-two-sum
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 |                                                                              | [✓](./problems/easy/0268-missing-number/typescript/solution.ts)                                   |                                                      | Easy       | Array, Hash Table, Math, Bit Manipulation                |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       |                                                                              | [✓](./problems/easy/0283-move-zeroes/typescript/solution.ts)                                      |                                                      | Easy       | Array, Two Pointers                                      |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           |                                                                              | [✓](./problems/medium/0287-find-the-duplicate-number/typescript/solution.ts)                      |                                                      | Medium     | Array, Two Pointers, Binary Search                       |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | | [✓](./problems/easy/0290-word-pattern/typescript/solution.ts) | | Easy | String, Hash Table |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                       |                                                                              | [✓](./problems/medium/0322-coin-change/typescript/solution.ts)                                    |                                                      | Medium     | Array, Dynamic Programming                               |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                 |                                                                              | [✓](./problems/easy/0344-reverse-string/typescript/solution.ts)                                   |                                                      | Easy       | Two Pointers, String                                     |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               |                                                                              | [✓](./problems/medium/0347-top-k-frequent-elements/typescript/solution.ts)                        |                                                      | Medium     | Array, Hash Table, Bucket Sort, Counting                 |
