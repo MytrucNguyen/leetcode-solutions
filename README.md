@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-61/3892-blue)
-![Easy](https://img.shields.io/badge/easy-45-green)
+![Problems Solved](https://img.shields.io/badge/solved-62/3892-blue)
+![Easy](https://img.shields.io/badge/easy-46-green)
 ![Medium](https://img.shields.io/badge/medium-16-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -176,5 +176,6 @@ npm test 0001-two-sum
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | | [✓](./problems/easy/0448-find-all-numbers-disappeared-in-an-array/typescript/solution.ts) | | Easy | Array, Hash Table |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | | [✓](./problems/easy/0509-fibonacci-number/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | [✓](./problems/easy/0543-diameter-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | | [✓](./problems/easy/0605-can-place-flowers/typescript/solution.ts) | | Easy | Array, Greedy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
