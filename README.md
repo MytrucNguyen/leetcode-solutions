@@ -107,9 +107,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-81/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-84/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-19-orange)
+![Medium](https://img.shields.io/badge/medium-22-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -187,6 +187,7 @@ npm test 0001-two-sum
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | | [✓](./problems/easy/0485-max-consecutive-ones/typescript/solution.ts) | | Easy | Array |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | | [✓](./problems/easy/0509-fibonacci-number/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | [✓](./problems/easy/0543-diameter-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | | [✓](./problems/medium/0560-subarray-sum-equals-k/typescript/solution.ts) | | Medium | Array, Hash Table, Prefix Sum |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | | [✓](./problems/easy/0572-subtree-of-another-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | | [✓](./problems/easy/0605-can-place-flowers/typescript/solution.ts) | | Easy | Array, Greedy |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | | [✓](./problems/easy/0674-longest-continuous-increasing-subsequence/typescript/solution.ts) | | Easy | Array |
