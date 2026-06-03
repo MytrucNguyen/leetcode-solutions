@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "problems", "problems", "{BEC6521A-F901-2BBF-F273-35A4FDC6E8A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "easy", "easy", "{80E4E763-82EF-11FC-F037-8BECB98EAAB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0001-two-sum", "0001-two-sum", "{6BC1CFC3-0D53-C47B-EF5A-E1693257B59A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp-tests", "csharp-tests", "{CEE5E7F1-2B0F-1F28-7BE9-FB9B9038E436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum.Tests", "problems\easy\0001-two-sum\csharp-tests\TwoSum.Tests.csproj", "{22A7EF81-4F22-C8B1-2BCE-43F825CA59A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp", "csharp", "{ABD7A1A6-9A93-5480-AB80-8DB2DB499CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumCSharp", "problems\easy\0001-two-sum\csharp\TwoSumCSharp.csproj", "{EA59E0A7-5BC5-A364-96EC-2D3A9DAB95DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A7EF81-4F22-C8B1-2BCE-43F825CA59A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A7EF81-4F22-C8B1-2BCE-43F825CA59A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A7EF81-4F22-C8B1-2BCE-43F825CA59A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A7EF81-4F22-C8B1-2BCE-43F825CA59A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA59E0A7-5BC5-A364-96EC-2D3A9DAB95DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA59E0A7-5BC5-A364-96EC-2D3A9DAB95DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA59E0A7-5BC5-A364-96EC-2D3A9DAB95DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA59E0A7-5BC5-A364-96EC-2D3A9DAB95DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{80E4E763-82EF-11FC-F037-8BECB98EAAB5} = {BEC6521A-F901-2BBF-F273-35A4FDC6E8A1}
+		{6BC1CFC3-0D53-C47B-EF5A-E1693257B59A} = {80E4E763-82EF-11FC-F037-8BECB98EAAB5}
+		{CEE5E7F1-2B0F-1F28-7BE9-FB9B9038E436} = {6BC1CFC3-0D53-C47B-EF5A-E1693257B59A}
+		{22A7EF81-4F22-C8B1-2BCE-43F825CA59A8} = {CEE5E7F1-2B0F-1F28-7BE9-FB9B9038E436}
+		{ABD7A1A6-9A93-5480-AB80-8DB2DB499CD3} = {6BC1CFC3-0D53-C47B-EF5A-E1693257B59A}
+		{EA59E0A7-5BC5-A364-96EC-2D3A9DAB95DD} = {ABD7A1A6-9A93-5480-AB80-8DB2DB499CD3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF2334AC-FE85-442D-855E-A5CBF9E2F649}
+	EndGlobalSection
+EndGlobal
