@@ -1,4 +1,4 @@
-import { validPalindrome } from './solution.test';
+import { validPalindrome } from './solution';
 
 describe('680. Valid Palindrome II', () => {
     test('Example 1: "aba"', () => {
