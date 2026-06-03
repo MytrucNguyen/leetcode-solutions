@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-36/3000-blue)
-![Easy](https://img.shields.io/badge/easy-23-green)
+![Problems Solved](https://img.shields.io/badge/solved-37/3892-blue)
+![Easy](https://img.shields.io/badge/easy-24-green)
 ![Medium](https://img.shields.io/badge/medium-13-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -125,6 +125,7 @@ npm test 0001-two-sum
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | | [✓](./problems/medium/0015-3sum/typescript/solution.ts) | | Medium | Array, Two Pointers, Sorting |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [✓](./problems/easy/0020-valid-parentheses/python/solution.py) | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [✓](./problems/easy/0021-merge-two-sorted-lists/python/solution.py) | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | | [✓](./problems/easy/0026-remove-duplicates-from-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts) | | Medium | Array, Math, Matrix |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts) | | Medium | Array, Hash Table, String, Sorting |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | | [✓](./problems/medium/0053-maximum-subarray/typescript/solution.ts) | | Medium | Array, Divide and Conquer, Dynamic Programming |
