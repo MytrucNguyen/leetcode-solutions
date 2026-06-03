@@ -24,13 +24,13 @@ export class TreeNode {
 }
 
 export function maxDepth(root: TreeNode | null): number {
-    if (root === null) {
-        return 0;
-    }
+  if (root === null) {
+    return 0;
+  }
 
-    const leftDepth = maxDepth(root?.left);
+  const leftDepth = maxDepth(root?.left);
 
-    const rightDept = maxDepth(root?.right);
+  const rightDept = maxDepth(root?.right);
 
-    return 1 + Math.max(leftDepth, rightDept);
+  return 1 + Math.max(leftDepth, rightDept);
 }
