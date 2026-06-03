@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-123/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-124/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-63-green)
-![Medium](https://img.shields.io/badge/medium-59-orange)
+![Medium](https://img.shields.io/badge/medium-60-orange)
 ![Hard](https://img.shields.io/badge/hard-1-red)
 
 ## Problems
@@ -187,6 +187,7 @@ npm test 0001-two-sum
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                             |                                                                              | [✓](./problems/easy/0160-intersection-of-two-linked-lists/typescript/solution.ts)                 |                                                      | Easy       | Hash Table, Linked List, Two Pointers                    |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           |                                                                              | [✓](./problems/medium/0167-two-sum-ii-input-array-is-sorted/typescript/solution.ts)               |                                                      | Medium     | Array, Two Pointers, Binary Search                       |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             |                                                                              | [✓](./problems/easy/0169-majority-element/typescript/solution.ts)                                 |                                                      | Easy       | Array, Hash Table, Divide and Conquer, Sorting, Counting |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | | [✓](./problems/medium/0179-largest-number/typescript/solution.ts) | | Medium | String, Greedy, Sorting |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                     |                                                                              | [✓](./problems/medium/0189-rotate-array/typescript/solution.ts)                                   |                                                      | Medium     | Array, Math, Two Pointers                                |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                     |                                                                              | [✓](./problems/easy/0190-reverse-bits/typescript/solution.ts)                                     |                                                      | Easy       | Divide and Conquer, Bit Manipulation                     |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                             |                                                                              | [✓](./problems/easy/0191-number-of-1-bits/typescript/solution.ts)                                 |                                                      | Easy       | Divide and Conquer, Bit Manipulation                     |
