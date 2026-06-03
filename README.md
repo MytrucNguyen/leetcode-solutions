@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-145/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-146/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-70-green)
-![Medium](https://img.shields.io/badge/medium-71-orange)
+![Medium](https://img.shields.io/badge/medium-72-orange)
 ![Hard](https://img.shields.io/badge/hard-4-red)
 
 ## Problems
@@ -146,6 +146,7 @@ npm test 0001-two-sum
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                       |                                                                              | [✓](./problems/medium/0033-search-in-rotated-sorted-array/typescript/solution.ts)                            |                                                      | Medium     | Array, Binary Search                                               |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |                                                                              | [✓](./problems/medium/0034-find-first-and-last-position-of-element-in-sorted-array/typescript/solution.ts)   |                                                      | Medium     | Array, Binary Search                                               |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                       |                                                                              | [✓](./problems/easy/0035-search-insert-position/typescript/solution.ts)                                      |                                                      | Easy       | Array, Binary Search                                               |
+| 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                           |                                                                              | [✓](./problems/medium/0036-valid-sudoku/typescript/solution.ts)                                              |                                                      | Medium     | Array, Hash Table, Matrix                                          |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                             |                                                                              | [✓](./problems/hard/0042-trapping-rain-water/typescript/solution.ts)                                         |                                                      | Hard       | Array, Two Pointers, Stack                                         |
 | 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                                                   |                                                                              | [✓](./problems/medium/0043-multiply-strings/typescript/solution.ts)                                          |                                                      | Medium     | String, Math, Simulation                                           |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)                                                                                           |                                                                              | [✓](./problems/medium/0046-permutations/typescript/solution.ts)                                              |                                                      | Medium     | Array, Backtracking                                                |
