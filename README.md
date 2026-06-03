@@ -115,11 +115,10 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-133/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-134/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-66-green)
-![Medium](https://img.shields.io/badge/medium-64-orange)
+![Medium](https://img.shields.io/badge/medium-65-orange)
 ![Hard](https://img.shields.io/badge/hard-3-red)
-
 ## Problems
 
 | #    | Title                                                                                                                           | Python                                                                       | TypeScript                                                                                        | C#                                                   | Difficulty | Topics                                                   |
@@ -211,6 +210,7 @@ npm test 0001-two-sum
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         |                                                                              | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts)                               |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | | [✓](./problems/medium/0227-basic-calculator-ii/typescript/solution.ts) | | Medium | String, Math, Stack |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                                                 |                                                                              | [✓](./problems/easy/0228-summary-ranges/typescript/solution.ts)                                   |                                                      | Easy       | Array                                                    |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | | [✓](./problems/medium/0230-kth-smallest-element-in-a-bst/typescript/solution.ts) | | Medium | Tree, Depth-First Search, Binary Search Tree |
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                     |                                                                              | [✓](./problems/easy/0231-power-of-two/typescript/solution.ts)                                     |                                                      | Easy       | Math, Bit Manipulation                                   |
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                     |                                                                              | [✓](./problems/easy/0232-implement-queue-using-stacks/typescript/solution.ts)                     |                                                      | Easy       | Stack, Queue, Design                                     |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                 |                                                                              | [✓](./problems/easy/0234-palindrome-linked-list/typescript/solution.ts)                           |                                                      | Easy       | Linked List, Two Pointers, Stack                         |
