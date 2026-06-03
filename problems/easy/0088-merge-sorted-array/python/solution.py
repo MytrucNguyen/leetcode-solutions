@@ -20,7 +20,6 @@ class Solution:
 
             last_position_of_num1 -= 1
 
-
         while(end_of_nums2 >= 0):
             nums1[last_position_of_num1] = nums2[end_of_nums2]
             end_of_nums2 -= 1
