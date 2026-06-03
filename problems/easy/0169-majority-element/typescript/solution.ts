@@ -15,7 +15,7 @@ export function majorityElementHashMap(nums: number[]): number {
     }
   }
 
-  return -1; // Never reached (majority always exists)
+  return -1; 
 }
 
 // Approach 2: Sorting (Middle Element)
