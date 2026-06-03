@@ -129,7 +129,7 @@ npm test 0001-two-sum
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts) | | Medium | Array, Hash Table, String, Sorting |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | | [✓](./problems/medium/0054-spiral-matrix/typescript/solution.ts) | | Medium | Array, Matrix, Simulation |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | [✓](./problems/medium/0056-merge-intervals/typescript/solution.ts) | | Medium | Array, Sorting |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | | [✓](./problems/easy/0066-plus-one/typescript/solution.ts) | | Easy | Array, Math |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [✓](./problems/easy/0066-plus-one/python/solution.py) | [✓](./problems/easy/0066-plus-one/typescript/solution.ts) | | Easy | Array, Math |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | | [✓](./problems/easy/0069-sqrtx/typescript/solution.ts) | | Easy | Math, Binary Search |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Memoization |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | | [✓](./problems/easy/0088-merge-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
