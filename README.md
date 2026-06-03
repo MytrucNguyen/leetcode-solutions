@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-53/3892-blue)
-![Easy](https://img.shields.io/badge/easy-39-green)
+![Problems Solved](https://img.shields.io/badge/solved-54/3892-blue)
+![Easy](https://img.shields.io/badge/easy-40-green)
 ![Medium](https://img.shields.io/badge/medium-14-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -166,6 +166,7 @@ npm test 0001-two-sum
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | | [✓](./problems/easy/0349-intersection-of-two-arrays/typescript/solution.ts) | | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | | [✓](./problems/easy/0367-valid-perfect-square/typescript/solution.ts) | | Easy | Math, Binary Search |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | | [✓](./problems/easy/0414-third-maximum-number/typescript/solution.ts) | | Easy | Array, Sorting |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | | [✓](./problems/easy/0448-find-all-numbers-disappeared-in-an-array/typescript/solution.ts) | | Easy | Array, Hash Table |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | | [✓](./problems/easy/0509-fibonacci-number/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | [✓](./problems/easy/0543-diameter-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
