@@ -115,8 +115,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-138/3892-blue)
-![Easy](https://img.shields.io/badge/easy-67-green)
+![Problems Solved](https://img.shields.io/badge/solved-139/3892-blue)
+![Easy](https://img.shields.io/badge/easy-68-green)
 ![Medium](https://img.shields.io/badge/medium-68-orange)
 ![Hard](https://img.shields.io/badge/hard-3-red)
 
@@ -202,6 +202,7 @@ npm test 0001-two-sum
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | [✓](./problems/medium/0199-binary-tree-right-side-view/typescript/solution.ts) | | Medium | Tree, Breadth-First Search, Binary Tree |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           |                                                                              | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts)                              |                                                      | Medium     | Array, Depth-First Search, Breadth-First Search, Matrix  |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                     |                                                                              | [✓](./problems/easy/0202-happy-number/typescript/solution.ts)                                     |                                                      | Easy       | Hash Table, Math, Two Pointers                           |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | | [✓](./problems/easy/0203-remove-linked-list-elements/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                         |                                                                              | [✓](./problems/easy/0205-isomorphic-strings/typescript/solution.ts)                               |                                                      | Easy       | String, Hash Table                                       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       |                                                                              | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts)                              |                                                      | Easy       | Linked List, Recursion                                   |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | | [✓](./problems/medium/0207-course-schedule/typescript/solution.ts) | | Medium | Depth-First Search, Graph, Topological Sort |
