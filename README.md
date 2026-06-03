@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-152/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-153/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-70-green)
-![Medium](https://img.shields.io/badge/medium-77-orange)
+![Medium](https://img.shields.io/badge/medium-78-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -232,6 +232,7 @@ npm test 0001-two-sum
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                           |                                                                              | [✓](./problems/medium/0238-product-of-array-except-self/typescript/solution.ts)                              |                                                      | Medium     | Array, Prefix Sum                                                  |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                         |                                                                              | [✓](./problems/easy/0242-valid-anagram/typescript/solution.ts)                                               |                                                      | Easy       | Hash Table, String, Sorting                                        |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                                       |                                                                              | [✓](./problems/easy/0268-missing-number/typescript/solution.ts)                                              |                                                      | Easy       | Array, Hash Table, Math, Bit Manipulation                          |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | | [✓](./problems/medium/0279-perfect-squares/typescript/solution.ts) | | Medium | Math, Dynamic Programming |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                             |                                                                              | [✓](./problems/easy/0283-move-zeroes/typescript/solution.ts)                                                 |                                                      | Easy       | Array, Two Pointers                                                |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                                 |                                                                              | [✓](./problems/medium/0287-find-the-duplicate-number/typescript/solution.ts)                                 |                                                      | Medium     | Array, Two Pointers, Binary Search                                 |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                           |                                                                              | [✓](./problems/easy/0290-word-pattern/typescript/solution.ts)                                                |                                                      | Easy       | String, Hash Table                                                 |
