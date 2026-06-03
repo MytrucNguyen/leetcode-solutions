@@ -115,8 +115,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-136/3892-blue)
-![Easy](https://img.shields.io/badge/easy-66-green)
+![Problems Solved](https://img.shields.io/badge/solved-137/3892-blue)
+![Easy](https://img.shields.io/badge/easy-67-green)
 ![Medium](https://img.shields.io/badge/medium-67-orange)
 ![Hard](https://img.shields.io/badge/hard-3-red)
 
@@ -252,6 +252,7 @@ npm test 0001-two-sum
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                             |                                                                              | [✓](./problems/easy/0724-find-pivot-index/typescript/solution.ts)                                 |                                                      | Easy       | Array, Prefix Sum                                        |
 | 747  | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)               |                                                                              | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts)          |                                                      | Easy       | Array, Sorting                                           |
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | | [✓](./problems/medium/0763-partition-labels/typescript/solution.ts) | | Medium | String, Hash Table, Two Pointers, Greedy |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | | [✓](./problems/easy/0876-middle-of-the-linked-list/typescript/solution.ts) | | Easy | Linked List, Two Pointers |
 | 922  | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)                                               |                                                                              | [✓](./problems/easy/0922-sort-array-by-parity-ii/typescript/solution.ts)                          |                                                      | Easy       | Array, Two Pointers, Sorting                             |
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)                                                     |                                                                              | [✓](./problems/easy/0941-valid-mountain-array/typescript/solution.ts)                             |                                                      | Easy       | Array                                                    |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                           |                                                                              | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts)                        |                                                      | Easy       | Array, Two Pointers, Sorting                             |
