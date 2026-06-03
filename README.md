@@ -115,10 +115,10 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-121/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-122/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-63-green)
 ![Medium](https://img.shields.io/badge/medium-58-orange)
-![Hard](https://img.shields.io/badge/hard-0-red)
+![Hard](https://img.shields.io/badge/hard-1-red)
 
 ## Problems
 
@@ -159,6 +159,7 @@ npm test 0001-two-sum
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           |                                                                              | [✓](./problems/medium/0073-set-matrix-zeroes/typescript/solution.ts)                              |                                                      | Medium     | Array, Hash Table, Matrix                                |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | | [✓](./problems/medium/0074-search-a-2d-matrix/typescript/solution.ts) | | Medium | Array, Binary Search, Matrix |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                       |                                                                              | [✓](./problems/medium/0075-sort-colors/typescript/solution.ts)                                    |                                                      | Medium     | Array, Two Pointers, Sorting                             |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | | [✓](./problems/hard/0076-minimum-window-substring/typescript/solution.ts) | | Hard | String, Hash Table, Sliding Window |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/)                                                                               |                                                                              | [✓](./problems/medium/0078-subsets/typescript/solution.ts)                                        |                                                      | Medium     | Array, Backtracking, Bit Manipulation                    |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | | [✓](./problems/medium/0079-word-search/typescript/solution.ts) | | Medium | Array, String, Backtracking, Matrix |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                         | [✓](./problems/easy/0088-merge-sorted-array/python/solution.py)              | [✓](./problems/easy/0088-merge-sorted-array/typescript/solution.ts)                               |                                                      | Easy       | Array, Two Pointers, Sorting                             |
