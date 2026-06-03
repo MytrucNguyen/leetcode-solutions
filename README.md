@@ -107,9 +107,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-70/3892-blue)
-![Easy](https://img.shields.io/badge/easy-54-green)
-![Medium](https://img.shields.io/badge/medium-16-orange)
+![Problems Solved](https://img.shields.io/badge/solved-72/3892-blue)
+![Easy](https://img.shields.io/badge/easy-55-green)
+![Medium](https://img.shields.io/badge/medium-17-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -154,6 +154,7 @@ npm test 0001-two-sum
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | | [✓](./problems/easy/0160-intersection-of-two-linked-lists/typescript/solution.ts) | | Easy | Hash Table, Linked List, Two Pointers |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | [✓](./problems/medium/0167-two-sum-ii-input-array-is-sorted/typescript/solution.ts) | | Medium | Array, Two Pointers, Binary Search |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | | [✓](./problems/easy/0169-majority-element/typescript/solution.ts) | | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | | [✓](./problems/medium/0189-rotate-array/typescript/solution.ts) | | Medium | Array, Math, Two Pointers |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | | [✓](./problems/easy/0190-reverse-bits/typescript/solution.ts) | | Easy | Divide and Conquer, Bit Manipulation |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | | [✓](./problems/easy/0191-number-of-1-bits/typescript/solution.ts) | | Easy | Divide and Conquer, Bit Manipulation |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts) | | Medium | Array, Depth-First Search, Breadth-First Search, Matrix |
@@ -175,6 +176,7 @@ npm test 0001-two-sum
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | | [✓](./problems/easy/0349-intersection-of-two-arrays/typescript/solution.ts) | | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | | [✓](./problems/easy/0367-valid-perfect-square/typescript/solution.ts) | | Easy | Math, Binary Search |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | | [✓](./problems/easy/0387-first-unique-character-in-a-string/typescript/solution.ts) | | Easy | String, Hash Table, Queue, Counting |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | | [✓](./problems/easy/0392-is-subsequence/typescript/solution.ts) | | Easy | String, Two Pointers, Dynamic Programming |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | | [✓](./problems/easy/0414-third-maximum-number/typescript/solution.ts) | | Easy | Array, Sorting |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | | [✓](./problems/easy/0448-find-all-numbers-disappeared-in-an-array/typescript/solution.ts) | | Easy | Array, Hash Table |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | | [✓](./problems/easy/0485-max-consecutive-ones/typescript/solution.ts) | | Easy | Array |
