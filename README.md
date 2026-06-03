@@ -147,3 +147,4 @@ npm test 0001-two-sum
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | | [✓](./problems/easy/0242-valid-anagram/typescript/solution.ts) | | Easy | Hash Table, String, Sorting |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | | [✓](./problems/easy/0268-missing-number/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Bit Manipulation |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | [✓](./problems/easy/0283-move-zeroes/typescript/solution.ts) | | Easy | Array, Two Pointers |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
