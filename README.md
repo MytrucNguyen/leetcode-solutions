@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-66/3892-blue)
-![Easy](https://img.shields.io/badge/easy-50-green)
+![Problems Solved](https://img.shields.io/badge/solved-67/3892-blue)
+![Easy](https://img.shields.io/badge/easy-51-green)
 ![Medium](https://img.shields.io/badge/medium-16-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -130,6 +130,7 @@ npm test 0001-two-sum
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | | [✓](./problems/easy/0026-remove-duplicates-from-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | | [✓](./problems/easy/0027-remove-element/typescript/solution.ts) | | Easy | Array, Two Pointers |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | [✓](./problems/medium/0033-search-in-rotated-sorted-array/typescript/solution.ts) | | Medium | Array, Binary Search |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | | [✓](./problems/easy/0035-search-insert-position/typescript/solution.ts) | | Easy | Array, Binary Search |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts) | | Medium | Array, Math, Matrix |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts) | | Medium | Array, Hash Table, String, Sorting |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | | [✓](./problems/medium/0053-maximum-subarray/typescript/solution.ts) | | Medium | Array, Divide and Conquer, Dynamic Programming |
