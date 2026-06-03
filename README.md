@@ -129,5 +129,3 @@ npm test 0001-two-sum
 - **TypeScript**: Jest
 
 ---
-
-**Happy Coding!**
