@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-137/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-138/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-67-green)
-![Medium](https://img.shields.io/badge/medium-67-orange)
+![Medium](https://img.shields.io/badge/medium-68-orange)
 ![Hard](https://img.shields.io/badge/hard-3-red)
 
 ## Problems
@@ -181,6 +181,7 @@ npm test 0001-two-sum
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/python/solution.py) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts)                  |                                                      | Easy       | Array, Dynamic Programming                               |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | [✓](./problems/easy/0125-valid-palindrome/python/solution.py)                | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts)                                 |                                                      | Easy       | String, Two Pointers                                     |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                     |                                                                              | [✓](./problems/medium/0128-longest-consecutive-sequence/typescript/solution.ts)                   |                                                      | Medium     | Array, Hash Table, Union Find                            |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | | [✓](./problems/medium/0133-clone-graph/typescript/solution.ts) | | Medium | Hash Table, Depth-First Search, Graph |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                                                                   |                                                                              | [✓](./problems/easy/0136-single-number/typescript/solution.ts)                                    |                                                      | Easy       | Array, Bit Manipulation                                  |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | | [✓](./problems/medium/0138-copy-list-with-random-pointer/typescript/solution.ts) | | Medium | Hash Table, Linked List |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | | [✓](./problems/medium/0139-word-break/typescript/solution.ts) | | Medium | String, Dynamic Programming, Hash Table |
