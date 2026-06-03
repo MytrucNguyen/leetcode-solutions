@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-42/3892-blue)
-![Easy](https://img.shields.io/badge/easy-29-green)
+![Problems Solved](https://img.shields.io/badge/solved-43/3892-blue)
+![Easy](https://img.shields.io/badge/easy-30-green)
 ![Medium](https://img.shields.io/badge/medium-13-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -156,5 +156,6 @@ npm test 0001-two-sum
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | | [✓](./problems/easy/0268-missing-number/typescript/solution.ts) | | Easy | Array, Hash Table, Math, Bit Manipulation |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | [✓](./problems/easy/0283-move-zeroes/typescript/solution.ts) | | Easy | Array, Two Pointers |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | | [✓](./problems/easy/0344-reverse-string/typescript/solution.ts) | | Easy | Two Pointers, String |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | | [✓](./problems/easy/0349-intersection-of-two-arrays/typescript/solution.ts) | | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | | [✓](./problems/easy/0509-fibonacci-number/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
