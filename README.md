@@ -4,9 +4,9 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-15/3000-blue)
+![Problems Solved](https://img.shields.io/badge/solved-16/3000-blue)
 ![Easy](https://img.shields.io/badge/easy-11-green)
-![Medium](https://img.shields.io/badge/medium-4-orange)
+![Medium](https://img.shields.io/badge/medium-5-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -24,6 +24,7 @@ My collection of LeetCode solutions organized by difficulty and topic. Each prob
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts) | | Easy | String, Two Pointers |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | | [✓](./problems/medium/0146-lru-cache/typescript/solution.ts) | | Medium | Hash Table, Linked List, Design, Doubly-Linked List |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts) | | Medium | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts) | | Easy | Linked List, Recursion |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts) | | Easy | Array, Hash Table, Sorting |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
