@@ -115,10 +115,10 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-144/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-145/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-70-green)
 ![Medium](https://img.shields.io/badge/medium-71-orange)
-![Hard](https://img.shields.io/badge/hard-3-red)
+![Hard](https://img.shields.io/badge/hard-4-red)
 
 ## Problems
 
@@ -139,6 +139,7 @@ npm test 0001-two-sum
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                 | [✓](./problems/easy/0020-valid-parentheses/python/solution.py)               | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts)                                           |                                                      | Easy       | String, Stack                                                      |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                       | [✓](./problems/easy/0021-merge-two-sorted-lists/python/solution.py)          | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts)                                      |                                                      | Easy       | Linked List, Recursion                                             |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                           |                                                                              | [✓](./problems/medium/0022-generate-parentheses/typescript/solution.ts)                                      |                                                      | Medium     | String, Dynamic Programming, Backtracking                          |
+| 23   | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                           |                                                                              | [✓](./problems/hard/0023-merge-k-sorted-lists/typescript/solution.ts)                                        |                                                      | Hard       | Linked List, Divide and Conquer, Heap, Merge Sort                  |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                             |                                                                              | [✓](./problems/easy/0026-remove-duplicates-from-sorted-array/typescript/solution.ts)                         |                                                      | Easy       | Array, Two Pointers                                                |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                       |                                                                              | [✓](./problems/easy/0027-remove-element/typescript/solution.ts)                                              |                                                      | Easy       | Array, Two Pointers                                                |
 | 28   | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)               |                                                                              | [✓](./problems/easy/0028-find-the-index-of-the-first-occurrence-in-a-string/typescript/solution.ts)          |                                                      | Easy       | String, Two Pointers, String Matching                              |
