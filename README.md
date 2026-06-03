@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-96/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-97/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-34-orange)
+![Medium](https://img.shields.io/badge/medium-35-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -134,6 +134,7 @@ npm test 0001-two-sum
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   |                                                                              | [✓](./problems/easy/0014-longest-common-prefix/typescript/solution.ts)                            |                                                      | Easy       | String, Trie                                             |
 | 15   | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     |                                                                              | [✓](./problems/medium/0015-3sum/typescript/solution.ts)                                           |                                                      | Medium     | Array, Two Pointers, Sorting                             |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                   |                                                                              | [✓](./problems/medium/0017-letter-combinations-of-a-phone-number/typescript/solution.ts)          |                                                      | Medium     | String, Hash Table, Backtracking                         |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | | [✓](./problems/medium/0019-remove-nth-node-from-end-of-list/typescript/solution.ts) | | Medium | Linked List, Two Pointers |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [✓](./problems/easy/0020-valid-parentheses/python/solution.py)               | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts)                                |                                                      | Easy       | String, Stack                                            |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [✓](./problems/easy/0021-merge-two-sorted-lists/python/solution.py)          | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts)                           |                                                      | Easy       | Linked List, Recursion                                   |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     |                                                                              | [✓](./problems/medium/0022-generate-parentheses/typescript/solution.ts)                           |                                                      | Medium     | String, Dynamic Programming, Backtracking                |
