@@ -115,8 +115,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-131/3892-blue)
-![Easy](https://img.shields.io/badge/easy-64-green)
+![Problems Solved](https://img.shields.io/badge/solved-132/3892-blue)
+![Easy](https://img.shields.io/badge/easy-65-green)
 ![Medium](https://img.shields.io/badge/medium-64-orange)
 ![Hard](https://img.shields.io/badge/hard-3-red)
 
@@ -242,6 +242,7 @@ npm test 0001-two-sum
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                           |                                                                              | [✓](./problems/easy/0605-can-place-flowers/typescript/solution.ts)                                |                                                      | Easy       | Array, Greedy                                            |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | | [✓](./problems/medium/0647-palindromic-substrings/typescript/solution.ts) | | Medium | String, Dynamic Programming |
 | 674  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)           |                                                                              | [✓](./problems/easy/0674-longest-continuous-increasing-subsequence/typescript/solution.ts)        |                                                      | Easy       | Array                                                    |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | | [✓](./problems/easy/0680-valid-palindrome-ii/typescript/solution.ts) | | Easy | String, Two Pointers, Greedy |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | | [✓](./problems/medium/0695-max-area-of-island/typescript/solution.ts) | | Medium | Array, Depth-First Search, Matrix |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   |                                                                              | [✓](./problems/easy/0704-binary-search/typescript/solution.ts)                                    |                                                      | Easy       | Array, Binary Search                                     |
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                             |                                                                              | [✓](./problems/easy/0724-find-pivot-index/typescript/solution.ts)                                 |                                                      | Easy       | Array, Prefix Sum                                        |
