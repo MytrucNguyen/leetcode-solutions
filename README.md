@@ -115,8 +115,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-129/3892-blue)
-![Easy](https://img.shields.io/badge/easy-63-green)
+![Problems Solved](https://img.shields.io/badge/solved-130/3892-blue)
+![Easy](https://img.shields.io/badge/easy-64-green)
 ![Medium](https://img.shields.io/badge/medium-64-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 
@@ -153,6 +153,7 @@ npm test 0001-two-sum
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                           |                                                                              | [✓](./problems/medium/0055-jump-game/typescript/solution.ts)                                      |                                                      | Medium     | Array, Dynamic Programming, Greedy                       |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                               |                                                                              | [✓](./problems/medium/0056-merge-intervals/typescript/solution.ts)                                |                                                      | Medium     | Array, Sorting                                           |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | | [✓](./problems/medium/0057-insert-interval/typescript/solution.ts) | | Medium | Array, Intervals |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | | [✓](./problems/easy/0058-length-of-last-word/typescript/solution.ts) | | Easy | String |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | | [✓](./problems/medium/0062-unique-paths/typescript/solution.ts) | | Medium | Math, Dynamic Programming, Combinatorics |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | [✓](./problems/easy/0066-plus-one/python/solution.py)                        | [✓](./problems/easy/0066-plus-one/typescript/solution.ts)                                         |                                                      | Easy       | Array, Math                                              |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                 | [✓](./problems/easy/0069-sqrtx/python/solution.py)                           | [✓](./problems/easy/0069-sqrtx/typescript/solution.ts)                                            |                                                      | Easy       | Math, Binary Search                                      |
