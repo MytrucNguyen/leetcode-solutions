@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-59/3892-blue)
-![Easy](https://img.shields.io/badge/easy-43-green)
+![Problems Solved](https://img.shields.io/badge/solved-60/3892-blue)
+![Easy](https://img.shields.io/badge/easy-44-green)
 ![Medium](https://img.shields.io/badge/medium-16-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -138,6 +138,7 @@ npm test 0001-two-sum
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [✓](./problems/easy/0069-sqrtx/python/solution.py) | [✓](./problems/easy/0069-sqrtx/typescript/solution.ts) | | Easy | Math, Binary Search |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [✓](./problems/easy/0070-climbing-stairs/python/solution.py) | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Memoization |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [✓](./problems/easy/0088-merge-sorted-array/python/solution.py) | [✓](./problems/easy/0088-merge-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | | [✓](./problems/easy/0094-binary-tree-inorder-traversal/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Stack, Binary Tree |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | | [✓](./problems/easy/0100-same-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | | [✓](./problems/easy/0101-symmetric-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | [✓](./problems/easy/0104-maximum-depth-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
@@ -156,7 +157,7 @@ npm test 0001-two-sum
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts) | | Medium | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | | [✓](./problems/easy/0202-happy-number/typescript/solution.ts) | | Easy | Hash Table, Math, Two Pointers |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts) | | Easy | Linked List, Recursion |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts) | | Easy | Array, Hash Table, Sorting |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [✓](./problems/easy/0217-contains-duplicate/python/solution.py) | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts) | | Easy | Array, Hash Table, Sorting |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | | [✓](./problems/easy/0225-implement-stack-using-queues/typescript/solution.ts) | | Easy | Stack, Queue, Design |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | [✓](./problems/easy/0226-invert-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | | [✓](./problems/easy/0231-power-of-two/typescript/solution.ts) | | Easy | Math, Bit Manipulation |
@@ -175,3 +176,4 @@ npm test 0001-two-sum
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | | [✓](./problems/easy/0509-fibonacci-number/typescript/solution.ts) | | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | [✓](./problems/easy/0543-diameter-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
