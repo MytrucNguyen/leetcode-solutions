@@ -14,7 +14,7 @@ Collection of LeetCode solutions in Python, TypeScript, and C# organized by diff
 | # | Title | Python | TypeScript | C# | Difficulty | Topics |
 |---|-------|--------|------------|-----|------------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [✓](./problems/easy/0001-two-sum/python/solution.py) | [✓](./problems/easy/0001-two-sum/typescript/solution.ts) | [✓](./problems/easy/0001-two-sum/csharp/Solution.cs) | Easy | Array, Hash Table |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [✓](./problems/easy/0020-valid-parentheses/python/solution.py) | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
 
 ## Repository Structure
 ```
@@ -54,11 +54,8 @@ Each problem folder contains:
 
 ### C#
 ```bash
-# Navigate to problem directory
-cd problems/[difficulty]/[problem-number-name]
-
 # Create solution project (first time only)
-cd csharp
+cd problems/[difficulty]/[problem-number-name]/csharp
 dotnet new classlib -n [FunctionName]CSharp -o .
 mv Class1.cs Solution.cs  # Rename to Solution.cs
 # Edit Solution.cs with your code
@@ -70,9 +67,8 @@ mv UnitTest1.cs SolutionTests.cs  # Rename to SolutionTests.cs
 dotnet add reference ../csharp/[FunctionName]CSharp.csproj
 # Edit SolutionTests.cs with your tests
 
-# Run tests
-cd ..
-dotnet test csharp-tests
+# Run tests (from anywhere)
+dotnet test problems/[difficulty]/[problem-number-name]/csharp-tests
 ```
 
 **Example:**
@@ -87,27 +83,22 @@ dotnet new xunit -n TwoSum.Tests -o .
 mv UnitTest1.cs SolutionTests.cs
 dotnet add reference ../csharp/TwoSumCSharp.csproj
 
-# Run tests
-cd ..
-dotnet test csharp-tests
+# Run tests from root
+dotnet test problems/easy/0001-two-sum/csharp-tests
 ```
 
 ### Python
 ```bash
-# Navigate to problem directory
-cd problems/[difficulty]/[problem-number-name]/python
+# Run tests from anywhere
+python problems/[difficulty]/[problem-number-name]/python/test_solution.py
 
-# Run tests
-python test_solution.py
-
-# Run with verbose output
-python test_solution.py -v
+# Run with verbose output (optional)
+python problems/[difficulty]/[problem-number-name]/python/test_solution.py -v
 ```
 
 **Example:**
 ```bash
-cd problems/easy/0001-two-sum/python
-python test_solution.py
+python problems/easy/0001-two-sum/python/test_solution.py
 ```
 
 ### TypeScript
