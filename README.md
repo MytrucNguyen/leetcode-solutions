@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-55/3892-blue)
-![Easy](https://img.shields.io/badge/easy-40-green)
+![Problems Solved](https://img.shields.io/badge/solved-56/3892-blue)
+![Easy](https://img.shields.io/badge/easy-41-green)
 ![Medium](https://img.shields.io/badge/medium-15-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -122,6 +122,7 @@ npm test 0001-two-sum
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | [✓](./problems/medium/0005-longest-palindromic-substring/typescript/solution.ts) | | Medium | String, Dynamic Programming |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [✓](./problems/easy/0009-palindrome-number/python/solution.py) | [✓](./problems/easy/0009-palindrome-number/typescript/solution.ts) | | Easy | Math |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | | [✓](./problems/medium/0011-container-with-most-water/typescript/solution.ts) | | Medium | Array, Two Pointers, Greedy |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | [✓](./problems/easy/0014-longest-common-prefix/typescript/solution.ts) | | Easy | String, Trie |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | | [✓](./problems/medium/0015-3sum/typescript/solution.ts) | | Medium | Array, Two Pointers, Sorting |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [✓](./problems/easy/0020-valid-parentheses/python/solution.py) | [✓](./problems/easy/0020-valid-parentheses/typescript/solution.ts) | | Easy | String, Stack |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [✓](./problems/easy/0021-merge-two-sorted-lists/python/solution.py) | [✓](./problems/easy/0021-merge-two-sorted-lists/typescript/solution.ts) | | Easy | Linked List, Recursion |
