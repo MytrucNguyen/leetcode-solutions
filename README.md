@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-104/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-105/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-62-green)
-![Medium](https://img.shields.io/badge/medium-42-orange)
+![Medium](https://img.shields.io/badge/medium-43-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
 ## Problems
@@ -208,6 +208,7 @@ npm test 0001-two-sum
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                         |                                                                              | [✓](./problems/easy/0387-first-unique-character-in-a-string/typescript/solution.ts)               |                                                      | Easy       | String, Hash Table, Queue, Counting                      |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                 |                                                                              | [✓](./problems/easy/0392-is-subsequence/typescript/solution.ts)                                   |                                                      | Easy       | String, Two Pointers, Dynamic Programming                |
 | 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                     |                                                                              | [✓](./problems/easy/0414-third-maximum-number/typescript/solution.ts)                             |                                                      | Easy       | Array, Sorting                                           |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | | [✓](./problems/medium/0424-longest-repeating-character-replacement/typescript/solution.ts) | | Medium | String, Hash Table, Sliding Window |
 | 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                                   |                                                                              | [✓](./problems/medium/0438-find-all-anagrams-in-a-string/typescript/solution.ts)                  |                                                      | Medium     | String, Hash Table, Sliding Window                       |
 | 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)             |                                                                              | [✓](./problems/easy/0448-find-all-numbers-disappeared-in-an-array/typescript/solution.ts)         |                                                      | Easy       | Array, Hash Table                                        |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                                     |                                                                              | [✓](./problems/easy/0485-max-consecutive-ones/typescript/solution.ts)                             |                                                      | Easy       | Array                                                    |
