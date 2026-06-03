@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-78/3892-blue)
-![Easy](https://img.shields.io/badge/easy-61-green)
+![Problems Solved](https://img.shields.io/badge/solved-79/3892-blue)
+![Easy](https://img.shields.io/badge/easy-62-green)
 ![Medium](https://img.shields.io/badge/medium-17-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -189,6 +189,7 @@ npm test 0001-two-sum
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | | [✓](./problems/easy/0605-can-place-flowers/typescript/solution.ts) | | Easy | Array, Greedy |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | | [✓](./problems/easy/0674-longest-continuous-increasing-subsequence/typescript/solution.ts) | | Easy | Array |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | | [✓](./problems/easy/0704-binary-search/typescript/solution.ts) | | Easy | Array, Binary Search |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | | [✓](./problems/easy/0724-find-pivot-index/typescript/solution.ts) | | Easy | Array, Prefix Sum |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts) | | Easy | Array, Sorting |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | | [✓](./problems/easy/0922-sort-array-by-parity-ii/typescript/solution.ts) | | Easy | Array, Two Pointers, Sorting |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | | [✓](./problems/easy/0941-valid-mountain-array/typescript/solution.ts) | | Easy | Array |
