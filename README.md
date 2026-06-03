@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-122/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-123/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-63-green)
-![Medium](https://img.shields.io/badge/medium-58-orange)
+![Medium](https://img.shields.io/badge/medium-59-orange)
 ![Hard](https://img.shields.io/badge/hard-1-red)
 
 ## Problems
@@ -144,6 +144,7 @@ npm test 0001-two-sum
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 |                                                                              | [✓](./problems/medium/0033-search-in-rotated-sorted-array/typescript/solution.ts)                 |                                                      | Medium     | Array, Binary Search                                     |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | [✓](./problems/medium/0034-find-first-and-last-position-of-element-in-sorted-array/typescript/solution.ts) | | Medium | Array, Binary Search |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 |                                                                              | [✓](./problems/easy/0035-search-insert-position/typescript/solution.ts)                           |                                                      | Easy       | Array, Binary Search                                     |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | | [✓](./problems/medium/0043-multiply-strings/typescript/solution.ts) | | Medium | String, Math, Simulation |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)                                                                     |                                                                              | [✓](./problems/medium/0046-permutations/typescript/solution.ts)                                   |                                                      | Medium     | Array, Backtracking                                      |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     |                                                                              | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts)                                   |                                                      | Medium     | Array, Math, Matrix                                      |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 |                                                                              | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts)                                 |                                                      | Medium     | Array, Hash Table, String, Sorting                       |
