@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-76/3892-blue)
-![Easy](https://img.shields.io/badge/easy-59-green)
+![Problems Solved](https://img.shields.io/badge/solved-77/3892-blue)
+![Easy](https://img.shields.io/badge/easy-60-green)
 ![Medium](https://img.shields.io/badge/medium-17-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -144,6 +144,7 @@ npm test 0001-two-sum
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | | [✓](./problems/easy/0100-same-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | | [✓](./problems/easy/0101-symmetric-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | [✓](./problems/easy/0104-maximum-depth-of-binary-tree/typescript/solution.ts) | | Easy | Tree, Depth-First Search, Binary Tree |
+| 108 | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-height-balanced-bst/) | | [✓](./problems/easy/0108-convert-sorted-array-to-bst/typescript/solution.ts) | | Easy | Array, Divide and Conquer, Tree, Binary Search Tree |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | | [✓](./problems/easy/0118-pascals-triangle/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/python/solution.py) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts) | | Easy | Array, Dynamic Programming |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [✓](./problems/easy/0125-valid-palindrome/python/solution.py) | [✓](./problems/easy/0125-valid-palindrome/typescript/solution.ts) | | Easy | String, Two Pointers |
