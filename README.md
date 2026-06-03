@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-31/3000-blue)
-![Easy](https://img.shields.io/badge/easy-19-green)
+![Problems Solved](https://img.shields.io/badge/solved-32/3000-blue)
+![Easy](https://img.shields.io/badge/easy-20-green)
 ![Medium](https://img.shields.io/badge/medium-12-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
