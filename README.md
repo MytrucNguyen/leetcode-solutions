@@ -107,8 +107,8 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-51/3892-blue)
-![Easy](https://img.shields.io/badge/easy-37-green)
+![Problems Solved](https://img.shields.io/badge/solved-52/3892-blue)
+![Easy](https://img.shields.io/badge/easy-38-green)
 ![Medium](https://img.shields.io/badge/medium-14-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 
@@ -148,6 +148,7 @@ npm test 0001-two-sum
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | | [✓](./problems/easy/0160-intersection-of-two-linked-lists/typescript/solution.ts) | | Easy | Hash Table, Linked List, Two Pointers |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | | [✓](./problems/easy/0169-majority-element/typescript/solution.ts) | | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | | [✓](./problems/easy/0190-reverse-bits/typescript/solution.ts) | | Easy | Divide and Conquer, Bit Manipulation |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | | [✓](./problems/easy/0191-number-of-1-bits/typescript/solution.ts) | | Easy | Divide and Conquer, Bit Manipulation |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | | [✓](./problems/medium/0200-number-of-islands/typescript/solution.ts) | | Medium | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | | [✓](./problems/easy/0202-happy-number/typescript/solution.ts) | | Easy | Hash Table, Math, Two Pointers |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [✓](./problems/easy/0206-reverse-linked-list/typescript/solution.ts) | | Easy | Linked List, Recursion |
