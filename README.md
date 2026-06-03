@@ -115,10 +115,10 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-124/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-125/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-63-green)
 ![Medium](https://img.shields.io/badge/medium-60-orange)
-![Hard](https://img.shields.io/badge/hard-1-red)
+![Hard](https://img.shields.io/badge/hard-2-red)
 
 ## Problems
 
@@ -157,6 +157,7 @@ npm test 0001-two-sum
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | [✓](./problems/easy/0066-plus-one/python/solution.py)                        | [✓](./problems/easy/0066-plus-one/typescript/solution.ts)                                         |                                                      | Easy       | Array, Math                                              |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                 | [✓](./problems/easy/0069-sqrtx/python/solution.py)                           | [✓](./problems/easy/0069-sqrtx/typescript/solution.ts)                                            |                                                      | Easy       | Math, Binary Search                                      |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | [✓](./problems/easy/0070-climbing-stairs/python/solution.py)                 | [✓](./problems/easy/0070-climbing-stairs/typescript/solution.ts)                                  |                                                      | Easy       | Math, Dynamic Programming, Memoization                   |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | | [✓](./problems/hard/0072-edit-distance/typescript/solution.ts) | | Hard | String, Dynamic Programming |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           |                                                                              | [✓](./problems/medium/0073-set-matrix-zeroes/typescript/solution.ts)                              |                                                      | Medium     | Array, Hash Table, Matrix                                |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | | [✓](./problems/medium/0074-search-a-2d-matrix/typescript/solution.ts) | | Medium | Array, Binary Search, Matrix |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                       |                                                                              | [✓](./problems/medium/0075-sort-colors/typescript/solution.ts)                                    |                                                      | Medium     | Array, Two Pointers, Sorting                             |
