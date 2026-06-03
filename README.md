@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-127/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-128/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-63-green)
-![Medium](https://img.shields.io/badge/medium-62-orange)
+![Medium](https://img.shields.io/badge/medium-63-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 
 ## Problems
@@ -239,6 +239,7 @@ npm test 0001-two-sum
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                           |                                                                              | [✓](./problems/easy/0605-can-place-flowers/typescript/solution.ts)                                |                                                      | Easy       | Array, Greedy                                            |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | | [✓](./problems/medium/0647-palindromic-substrings/typescript/solution.ts) | | Medium | String, Dynamic Programming |
 | 674  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)           |                                                                              | [✓](./problems/easy/0674-longest-continuous-increasing-subsequence/typescript/solution.ts)        |                                                      | Easy       | Array                                                    |
+| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | | [✓](./problems/medium/0695-max-area-of-island/typescript/solution.ts) | | Medium | Array, Depth-First Search, Matrix |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   |                                                                              | [✓](./problems/easy/0704-binary-search/typescript/solution.ts)                                    |                                                      | Easy       | Array, Binary Search                                     |
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                             |                                                                              | [✓](./problems/easy/0724-find-pivot-index/typescript/solution.ts)                                 |                                                      | Easy       | Array, Prefix Sum                                        |
 | 747  | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)               |                                                                              | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts)          |                                                      | Easy       | Array, Sorting                                           |
