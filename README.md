@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-142/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-143/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-70-green)
-![Medium](https://img.shields.io/badge/medium-69-orange)
+![Medium](https://img.shields.io/badge/medium-70-orange)
 ![Hard](https://img.shields.io/badge/hard-3-red)
 
 ## Problems
@@ -235,6 +235,7 @@ npm test 0001-two-sum
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | | [✓](./problems/medium/0348-design-tic-tac-toe/typescript/solution.ts) | | Medium | Array, Hash Table, Design, Matrix |
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                         |                                                                              | [✓](./problems/easy/0349-intersection-of-two-arrays/typescript/solution.ts)                       |                                                      | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting  |
 | 367  | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                     |                                                                              | [✓](./problems/easy/0367-valid-perfect-square/typescript/solution.ts)                             |                                                      | Easy       | Math, Binary Search                                      |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | | [✓](./problems/medium/0380-insert-delete-getrandom-o1/typescript/solution.ts) | | Medium | Array, Hash Table, Math, Design |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                       |                                                                              | [✓](./problems/easy/0383-ransom-note/typescript/solution.ts)                                      |                                                      | Easy       | String, Hash Table, Counting                             |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                         |                                                                              | [✓](./problems/easy/0387-first-unique-character-in-a-string/typescript/solution.ts)               |                                                      | Easy       | String, Hash Table, Queue, Counting                      |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                 |                                                                              | [✓](./problems/easy/0392-is-subsequence/typescript/solution.ts)                                   |                                                      | Easy       | String, Two Pointers, Dynamic Programming                |
