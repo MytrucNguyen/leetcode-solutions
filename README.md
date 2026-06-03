@@ -115,10 +115,11 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-134/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-135/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-66-green)
-![Medium](https://img.shields.io/badge/medium-65-orange)
+![Medium](https://img.shields.io/badge/medium-66-orange)
 ![Hard](https://img.shields.io/badge/hard-3-red)
+
 ## Problems
 
 | #    | Title                                                                                                                           | Python                                                                       | TypeScript                                                                                        | C#                                                   | Difficulty | Topics                                                   |
@@ -174,6 +175,7 @@ npm test 0001-two-sum
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                 |                                                                              | [✓](./problems/easy/0101-symmetric-tree/typescript/solution.ts)                                   |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | | [✓](./problems/medium/0102-binary-tree-level-order-traversal/typescript/solution.ts) | | Medium | Tree, Breadth-First Search, Binary Tree |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     |                                                                              | [✓](./problems/easy/0104-maximum-depth-of-binary-tree/typescript/solution.ts)                     |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                    |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | | [✓](./problems/medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/typescript/solution.ts) | | Medium | Array, Hash Table, Divide and Conquer, Tree |
 | 108  | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-height-balanced-bst/)                       |                                                                              | [✓](./problems/easy/0108-convert-sorted-array-to-bst/typescript/solution.ts)                      |                                                      | Easy       | Array, Divide and Conquer, Tree, Binary Search Tree      |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                            |                                                                              | [✓](./problems/easy/0118-pascals-triangle/typescript/solution.ts)                                 |                                                      | Easy       | Array, Dynamic Programming                               |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/python/solution.py) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts)                  |                                                      | Easy       | Array, Dynamic Programming                               |
