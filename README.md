@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-135/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-136/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-66-green)
-![Medium](https://img.shields.io/badge/medium-66-orange)
+![Medium](https://img.shields.io/badge/medium-67-orange)
 ![Hard](https://img.shields.io/badge/hard-3-red)
 
 ## Problems
@@ -227,6 +227,7 @@ npm test 0001-two-sum
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                       |                                                                              | [✓](./problems/medium/0322-coin-change/typescript/solution.ts)                                    |                                                      | Medium     | Array, Dynamic Programming                               |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                 |                                                                              | [✓](./problems/easy/0344-reverse-string/typescript/solution.ts)                                   |                                                      | Easy       | Two Pointers, String                                     |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               |                                                                              | [✓](./problems/medium/0347-top-k-frequent-elements/typescript/solution.ts)                        |                                                      | Medium     | Array, Hash Table, Bucket Sort, Counting                 |
+| 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | | [✓](./problems/medium/0348-design-tic-tac-toe/typescript/solution.ts) | | Medium | Array, Hash Table, Design, Matrix |
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                         |                                                                              | [✓](./problems/easy/0349-intersection-of-two-arrays/typescript/solution.ts)                       |                                                      | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting  |
 | 367  | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                     |                                                                              | [✓](./problems/easy/0367-valid-perfect-square/typescript/solution.ts)                             |                                                      | Easy       | Math, Binary Search                                      |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                       |                                                                              | [✓](./problems/easy/0383-ransom-note/typescript/solution.ts)                                      |                                                      | Easy       | String, Hash Table, Counting                             |
