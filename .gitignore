@@ -1,0 +1,49 @@
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+.pytest_cache/
+
+# TypeScript/Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+package-lock.json
+yarn.lock
+*.js
+*.js.map
+dist/
+build/
+
+# C#
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+.vs/
+
+# Testing
+coverage/
+.nyc_output/
+htmlcov/
+
+# Personal notes
+notes.txt
+TODO.md
+scratch/

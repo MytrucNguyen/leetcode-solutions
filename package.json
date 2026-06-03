@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "Collection of LeetCode solutions in Python, TypeScript, and C# organized by difficulty and topic. Includes detailed explanations, complexity analysis, and multiple approaches where applicable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
