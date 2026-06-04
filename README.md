@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-153/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-154/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-70-green)
-![Medium](https://img.shields.io/badge/medium-78-orange)
+![Medium](https://img.shields.io/badge/medium-79-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -266,6 +266,7 @@ npm test 0001-two-sum
 | 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                                               |                                                                              | [✓](./problems/medium/0695-max-area-of-island/typescript/solution.ts)                                        |                                                      | Medium     | Array, Depth-First Search, Matrix                                  |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                         |                                                                              | [✓](./problems/easy/0704-binary-search/typescript/solution.ts)                                               |                                                      | Easy       | Array, Binary Search                                               |
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                                                   |                                                                              | [✓](./problems/easy/0724-find-pivot-index/typescript/solution.ts)                                            |                                                      | Easy       | Array, Prefix Sum                                                  |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | | [✓](./problems/medium/0739-daily-temperatures/typescript/solution.ts) | | Medium | Array, Stack, Monotonic Stack |
 | 747  | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)                                     |                                                                              | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts)                     |                                                      | Easy       | Array, Sorting                                                     |
 | 763  | [Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                                   |                                                                              | [✓](./problems/medium/0763-partition-labels/typescript/solution.ts)                                          |                                                      | Medium     | String, Hash Table, Two Pointers, Greedy                           |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                 |                                                                              | [✓](./problems/easy/0876-middle-of-the-linked-list/typescript/solution.ts)                                   |                                                      | Easy       | Linked List, Two Pointers                                          |
