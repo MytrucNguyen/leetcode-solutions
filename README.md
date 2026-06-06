@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-155/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-156/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-70-green)
-![Medium](https://img.shields.io/badge/medium-80-orange)
+![Medium](https://img.shields.io/badge/medium-81-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -273,6 +273,7 @@ npm test 0001-two-sum
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                 |                                                                              | [✓](./problems/easy/0876-middle-of-the-linked-list/typescript/solution.ts)                                   |                                                      | Easy       | Linked List, Two Pointers                                          |
 | 922  | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)                                                                     |                                                                              | [✓](./problems/easy/0922-sort-array-by-parity-ii/typescript/solution.ts)                                     |                                                      | Easy       | Array, Two Pointers, Sorting                                       |
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)                                                                           |                                                                              | [✓](./problems/easy/0941-valid-mountain-array/typescript/solution.ts)                                        |                                                      | Easy       | Array                                                              |
+| 973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                               |                                                                              | [✓](./problems/medium/0973-k-closest-points-to-origin/typescript/solution.ts)                                |                                                      | Medium     | Array, Math, Sorting, Heap                                         |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                 |                                                                              | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts)                                   |                                                      | Easy       | Array, Two Pointers, Sorting                                       |
 | 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                     |                                                                              | [✓](./problems/medium/0994-rotting-oranges/typescript/solution.ts)                                           |                                                      | Medium     | Array, Breadth-First Search, Matrix                                |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               |                                                                              | [✓](./problems/medium/1143-longest-common-subsequence/typescript/solution.ts)                                |                                                      | Medium     | String, Dynamic Programming                                        |
