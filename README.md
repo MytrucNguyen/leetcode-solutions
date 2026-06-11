@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-160/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-161/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-73-green)
-![Medium](https://img.shields.io/badge/medium-82-orange)
+![Medium](https://img.shields.io/badge/medium-83-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -154,6 +154,7 @@ npm test 0001-two-sum
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)                                                                                           |                                                                              | [✓](./problems/medium/0046-permutations/typescript/solution.ts)                                              |                                                      | Medium     | Array, Backtracking                                                |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                           |                                                                              | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts)                                              |                                                      | Medium     | Array, Math, Matrix                                                |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                       |                                                                              | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts)                                            |                                                      | Medium     | Array, Hash Table, String, Sorting                                 |
+| 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                                                    |                                                                              | [✓](./problems/medium/0050-powx-n/typescript/solution.ts)                                                    |                                                      | Medium     | Math, Recursion                                                    |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                   |                                                                              | [✓](./problems/medium/0053-maximum-subarray/typescript/solution.ts)                                          |                                                      | Medium     | Array, Divide and Conquer, Dynamic Programming                     |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                         |                                                                              | [✓](./problems/medium/0054-spiral-matrix/typescript/solution.ts)                                             |                                                      | Medium     | Array, Matrix, Simulation                                          |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                 |                                                                              | [✓](./problems/medium/0055-jump-game/typescript/solution.ts)                                                 |                                                      | Medium     | Array, Dynamic Programming, Greedy                                 |
