@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-161/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-162/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-73-green)
-![Medium](https://img.shields.io/badge/medium-83-orange)
+![Medium](https://img.shields.io/badge/medium-84-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -198,6 +198,7 @@ npm test 0001-two-sum
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                           |                                                                              | [✓](./problems/medium/0143-reorder-list/typescript/solution.ts)                                              |                                                      | Medium     | Linked List, Two Pointers, Stack, Recursion                        |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                                 |                                                                              | [✓](./problems/medium/0146-lru-cache/typescript/solution.ts)                                                 |                                                      | Medium     | Hash Table, Linked List, Design, Doubly-Linked List                |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list/)                                                                                                 |                                                                              | [✓](./problems/medium/0148-sort-list/typescript/solution.ts)                                                 |                                                      | Medium     | Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort |
+| 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                                   |                                                                              | [✓](./problems/medium/0150-evaluate-reverse-polish-notation/typescript/solution.ts)                          |                                                      | Medium     | Array, Math, Stack                                                 |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                                 |                                                                              | [✓](./problems/medium/0151-reverse-words-in-a-string/typescript/solution.ts)                                 |                                                      | Medium     | String, Two Pointers                                               |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                           |                                                                              | [✓](./problems/medium/0153-find-minimum-in-rotated-sorted-array/typescript/solution.ts)                      |                                                      | Medium     | Array, Binary Search                                               |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                                                 |                                                                              | [✓](./problems/medium/0155-min-stack/typescript/solution.ts)                                                 |                                                      | Medium     | Stack, Design                                                      |
