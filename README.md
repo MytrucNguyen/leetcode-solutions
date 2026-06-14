@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-163/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-164/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-84-orange)
+![Medium](https://img.shields.io/badge/medium-85-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -266,6 +266,7 @@ npm test 0001-two-sum
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                         |                                                                              | [✓](./problems/medium/0567-permutation-in-string/typescript/solution.ts)                                     |                                                      | Medium     | String, Hash Table, Sliding Window                                 |
 | 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                     |                                                                              | [✓](./problems/easy/0572-subtree-of-another-tree/typescript/solution.ts)                                     |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                              |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                                 |                                                                              | [✓](./problems/easy/0605-can-place-flowers/typescript/solution.ts)                                           |                                                      | Easy       | Array, Greedy                                                      |
+| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                                                       |                                                                              | [✓](./problems/medium/0621-task-scheduler/typescript/solution.ts)                                            |                                                      | Medium     | Array, Hash Table, Greedy, Counting                                |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                       |                                                                              | [✓](./problems/medium/0647-palindromic-substrings/typescript/solution.ts)                                    |                                                      | Medium     | String, Dynamic Programming                                        |
 | 674  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)                                 |                                                                              | [✓](./problems/easy/0674-longest-continuous-increasing-subsequence/typescript/solution.ts)                   |                                                      | Easy       | Array                                                              |
 | 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                             |                                                                              | [✓](./problems/easy/0680-valid-palindrome-ii/typescript/solution.ts)                                         |                                                      | Easy       | String, Two Pointers, Greedy                                       |
