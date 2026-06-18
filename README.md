@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-167/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-168/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-88-orange)
+![Medium](https://img.shields.io/badge/medium-89-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -244,6 +244,7 @@ npm test 0001-two-sum
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                           |                                                                              | [✓](./problems/easy/0290-word-pattern/typescript/solution.ts)                                                |                                                      | Easy       | String, Hash Table                                                 |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                       |                                                                              | [✓](./problems/medium/0300-longest-increasing-subsequence/typescript/solution.ts)                            |                                                      | Medium     | Array, Binary Search, Dynamic Programming                          |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                             |                                                                              | [✓](./problems/medium/0322-coin-change/typescript/solution.ts)                                               |                                                      | Medium     | Array, Dynamic Programming                                         |
+| 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                                                       |                                                                              | [✓](./problems/medium/0334-increasing-triplet-subsequence/typescript/solution.ts)                            |                                                      | Medium     | Array, Greedy                                                      |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                         |                                                                              | [✓](./problems/easy/0338-counting-bits/typescript/solution.ts)                                               |                                                      | Easy       | Dynamic Programming, Bit Manipulation                              |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                       |                                                                              | [✓](./problems/easy/0344-reverse-string/typescript/solution.ts)                                              |                                                      | Easy       | Two Pointers, String                                               |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                     |                                                                              | [✓](./problems/medium/0347-top-k-frequent-elements/typescript/solution.ts)                                   |                                                      | Medium     | Array, Hash Table, Bucket Sort, Counting                           |
