@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-168/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-169/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-89-orange)
+![Medium](https://img.shields.io/badge/medium-90-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -151,6 +151,7 @@ npm test 0001-two-sum
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                     |                                                                              | [✓](./problems/medium/0039-combination-sum/typescript/solution.ts)                                           |                                                      | Medium     | Array, Backtracking                                                |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                             |                                                                              | [✓](./problems/hard/0042-trapping-rain-water/typescript/solution.ts)                                         |                                                      | Hard       | Array, Two Pointers, Stack                                         |
 | 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                                                   |                                                                              | [✓](./problems/medium/0043-multiply-strings/typescript/solution.ts)                                          |                                                      | Medium     | String, Math, Simulation                                           |
+| 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                           |                                                                              | [✓](./problems/medium/0045-jump-game-ii/typescript/solution.ts)                                              |                                                      | Medium     | Array, Dynamic Programming, Greedy                                 |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)                                                                                           |                                                                              | [✓](./problems/medium/0046-permutations/typescript/solution.ts)                                              |                                                      | Medium     | Array, Backtracking                                                |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                           |                                                                              | [✓](./problems/medium/0048-rotate-image/typescript/solution.ts)                                              |                                                      | Medium     | Array, Math, Matrix                                                |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                       |                                                                              | [✓](./problems/medium/0049-group-anagrams/typescript/solution.ts)                                            |                                                      | Medium     | Array, Hash Table, String, Sorting                                 |
