@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-170/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-171/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-91-orange)
+![Medium](https://img.shields.io/badge/medium-92-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -149,6 +149,7 @@ npm test 0001-two-sum
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                       |                                                                              | [✓](./problems/easy/0035-search-insert-position/typescript/solution.ts)                                      |                                                      | Easy       | Array, Binary Search                                               |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                           |                                                                              | [✓](./problems/medium/0036-valid-sudoku/typescript/solution.ts)                                              |                                                      | Medium     | Array, Hash Table, Matrix                                          |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                     |                                                                              | [✓](./problems/medium/0039-combination-sum/typescript/solution.ts)                                           |                                                      | Medium     | Array, Backtracking                                                |
+| 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                                                               |                                                                              | [✓](./problems/medium/0040-combination-sum-ii/typescript/solution.ts)                                        |                                                      | Medium     | Array, Backtracking                                                |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                             |                                                                              | [✓](./problems/hard/0042-trapping-rain-water/typescript/solution.ts)                                         |                                                      | Hard       | Array, Two Pointers, Stack                                         |
 | 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                                                   |                                                                              | [✓](./problems/medium/0043-multiply-strings/typescript/solution.ts)                                          |                                                      | Medium     | String, Math, Simulation                                           |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                           |                                                                              | [✓](./problems/medium/0045-jump-game-ii/typescript/solution.ts)                                              |                                                      | Medium     | Array, Dynamic Programming, Greedy                                 |
