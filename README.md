@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-171/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-172/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-92-orange)
+![Medium](https://img.shields.io/badge/medium-93-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -200,6 +200,7 @@ npm test 0001-two-sum
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                                                         |                                                                              | [✓](./problems/medium/0138-copy-list-with-random-pointer/typescript/solution.ts)                             |                                                      | Medium     | Hash Table, Linked List                                            |
 | 139  | [Word Break](https://leetcode.com/problems/word-break/)                                                                                               |                                                                              | [✓](./problems/medium/0139-word-break/typescript/solution.ts)                                                |                                                      | Medium     | String, Dynamic Programming, Hash Table                            |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                 |                                                                              | [✓](./problems/easy/0141-linked-list-cycle/typescript/solution.ts)                                           |                                                      | Easy       | Hash Table, Linked List, Two Pointers                              |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                           |                                                                              | [✓](./problems/medium/0142-linked-list-cycle-ii/typescript/solution.ts)                                      |                                                      | Medium     | Hash Table, Linked List, Two Pointers                              |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                           |                                                                              | [✓](./problems/medium/0143-reorder-list/typescript/solution.ts)                                              |                                                      | Medium     | Linked List, Two Pointers, Stack, Recursion                        |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                                 |                                                                              | [✓](./problems/medium/0146-lru-cache/typescript/solution.ts)                                                 |                                                      | Medium     | Hash Table, Linked List, Design, Doubly-Linked List                |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list/)                                                                                                 |                                                                              | [✓](./problems/medium/0148-sort-list/typescript/solution.ts)                                                 |                                                      | Medium     | Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort |
