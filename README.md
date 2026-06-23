@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-172/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-173/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-93-orange)
+![Medium](https://img.shields.io/badge/medium-94-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -293,5 +293,6 @@ npm test 0001-two-sum
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                 |                                                                              | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts)                                   |                                                      | Easy       | Array, Two Pointers, Sorting                                       |
 | 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                     |                                                                              | [✓](./problems/medium/0994-rotting-oranges/typescript/solution.ts)                                           |                                                      | Medium     | Array, Breadth-First Search, Matrix                                |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               |                                                                              | [✓](./problems/medium/1143-longest-common-subsequence/typescript/solution.ts)                                |                                                      | Medium     | String, Dynamic Programming                                        |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                                   |                                                                              | [✓](./problems/medium/1249-minimum-remove-to-make-valid-parentheses/typescript/solution.ts)                  |                                                      | Medium     | String, Stack                                                      |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                     |                                                                              | [✓](./problems/easy/1480-running-sum-of-1d-array/typescript/solution.ts)                                     |                                                      | Easy       | Array, Prefix Sum                                                  |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                           |                                                                              | [✓](./problems/easy/1512-number-of-good-pairs/typescript/solution.ts)                                        |                                                      | Easy       | Array, Hash Table, Math, Counting                                  |
