@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-173/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-174/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-94-orange)
+![Medium](https://img.shields.io/badge/medium-95-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -269,6 +269,7 @@ npm test 0001-two-sum
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                                                           |                                                                              | [✓](./problems/easy/0485-max-consecutive-ones/typescript/solution.ts)                                        |                                                      | Easy       | Array                                                              |
 | 496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)                                                                       |                                                                              | [✓](./problems/easy/0496-next-greater-element-i/typescript/solution.ts)                                      |                                                      | Easy       | Array, Hash Table, Stack, Monotonic Stack                          |
 | 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                                   |                                                                              | [✓](./problems/easy/0509-fibonacci-number/typescript/solution.ts)                                            |                                                      | Easy       | Math, Dynamic Programming, Recursion, Memoization                  |
+| 525  | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)                                                                                   |                                                                              | [✓](./problems/medium/0525-contiguous-array/typescript/solution.ts)                                          |                                                      | Medium     | Array, Hash Table, Prefix Sum                                      |
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                     |                                                                              | [✓](./problems/easy/0543-diameter-of-binary-tree/typescript/solution.ts)                                     |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                              |
 | 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                                         |                                                                              | [✓](./problems/medium/0560-subarray-sum-equals-k/typescript/solution.ts)                                     |                                                      | Medium     | Array, Hash Table, Prefix Sum                                      |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                         |                                                                              | [✓](./problems/medium/0567-permutation-in-string/typescript/solution.ts)                                     |                                                      | Medium     | String, Hash Table, Sliding Window                                 |
