@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-174/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-175/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-95-orange)
+![Medium](https://img.shields.io/badge/medium-96-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -278,6 +278,7 @@ npm test 0001-two-sum
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                                                       |                                                                              | [✓](./problems/medium/0621-task-scheduler/typescript/solution.ts)                                            |                                                      | Medium     | Array, Hash Table, Greedy, Counting                                |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                       |                                                                              | [✓](./problems/medium/0647-palindromic-substrings/typescript/solution.ts)                                    |                                                      | Medium     | String, Dynamic Programming                                        |
 | 674  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)                                 |                                                                              | [✓](./problems/easy/0674-longest-continuous-increasing-subsequence/typescript/solution.ts)                   |                                                      | Easy       | Array                                                              |
+| 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)                                                                   |                                                                              | [✓](./problems/medium/0678-valid-parenthesis-string/typescript/solution.ts)                                  |                                                      | Medium     | String, Dynamic Programming, Greedy                                |
 | 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                             |                                                                              | [✓](./problems/easy/0680-valid-palindrome-ii/typescript/solution.ts)                                         |                                                      | Easy       | String, Two Pointers, Greedy                                       |
 | 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                                               |                                                                              | [✓](./problems/medium/0695-max-area-of-island/typescript/solution.ts)                                        |                                                      | Medium     | Array, Depth-First Search, Matrix                                  |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                         |                                                                              | [✓](./problems/easy/0704-binary-search/typescript/solution.ts)                                               |                                                      | Easy       | Array, Binary Search                                               |
