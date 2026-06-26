@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-175/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-176/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-96-orange)
+![Medium](https://img.shields.io/badge/medium-97-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -284,6 +284,7 @@ npm test 0001-two-sum
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                         |                                                                              | [✓](./problems/easy/0704-binary-search/typescript/solution.ts)                                               |                                                      | Easy       | Array, Binary Search                                               |
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                                                   |                                                                              | [✓](./problems/easy/0724-find-pivot-index/typescript/solution.ts)                                            |                                                      | Easy       | Array, Prefix Sum                                                  |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                               |                                                                              | [✓](./problems/easy/0733-flood-fill/typescript/solution.ts)                                                  |                                                      | Easy       | Array, Depth-First Search, Matrix                                  |
+| 735  | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                                                                               |                                                                              | [✓](./problems/medium/0735-asteroid-collision/typescript/solution.ts)                                        |                                                      | Medium     | Array, Stack, Simulation                                           |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                               |                                                                              | [✓](./problems/medium/0739-daily-temperatures/typescript/solution.ts)                                        |                                                      | Medium     | Array, Stack, Monotonic Stack                                      |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                                   |                                                                              | [✓](./problems/easy/0746-min-cost-climbing-stairs/typescript/solution.ts)                                    |                                                      | Easy       | Array, Dynamic Programming                                         |
 | 747  | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)                                     |                                                                              | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts)                     |                                                      | Easy       | Array, Sorting                                                     |
