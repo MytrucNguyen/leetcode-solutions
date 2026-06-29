@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-178/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-179/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-99-orange)
+![Medium](https://img.shields.io/badge/medium-100-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -227,6 +227,7 @@ npm test 0001-two-sum
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                     |                                                                              | [✓](./problems/medium/0207-course-schedule/typescript/solution.ts)                                           |                                                      | Medium     | Depth-First Search, Graph, Topological Sort                        |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                             |                                                                              | [✓](./problems/medium/0208-implement-trie/typescript/solution.ts)                                            |                                                      | Medium     | Hash Table, String, Design, Trie                                   |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                                               |                                                                              | [✓](./problems/medium/0210-course-schedule-ii/typescript/solution.ts)                                        |                                                      | Medium     | Depth-First Search, Graph, Topological Sort                        |
+| 211  | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                               |                                                                              | [✓](./problems/medium/0211-design-add-and-search-words-data-structure/typescript/solution.ts)                |                                                      | Medium     | String, Depth-First Search, Design, Trie                           |
 | 213  | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                     |                                                                              | [✓](./problems/medium/0213-house-robber-ii/typescript/solution.ts)                                           |                                                      | Medium     | Array, Dynamic Programming                                         |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                                     |                                                                              | [✓](./problems/medium/0215-kth-largest-element-in-an-array/typescript/solution.ts)                           |                                                      | Medium     | Array, Heap, Sorting                                               |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                               | [✓](./problems/easy/0217-contains-duplicate/python/solution.py)              | [✓](./problems/easy/0217-contains-duplicate/typescript/solution.ts)                                          |                                                      | Easy       | Array, Hash Table, Sorting                                         |
