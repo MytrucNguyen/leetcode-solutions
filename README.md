@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-180/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-181/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-74-green)
-![Medium](https://img.shields.io/badge/medium-101-orange)
+![Medium](https://img.shields.io/badge/medium-102-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -298,6 +298,7 @@ npm test 0001-two-sum
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)                                                                           |                                                                              | [✓](./problems/easy/0941-valid-mountain-array/typescript/solution.ts)                                        |                                                      | Easy       | Array                                                              |
 | 973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                               |                                                                              | [✓](./problems/medium/0973-k-closest-points-to-origin/typescript/solution.ts)                                |                                                      | Medium     | Array, Math, Sorting, Heap                                         |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                 |                                                                              | [✓](./problems/easy/0977-squares-of-a-sorted-array/typescript/solution.ts)                                   |                                                      | Easy       | Array, Two Pointers, Sorting                                       |
+| 981  | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                               |                                                                              | [✓](./problems/medium/0981-time-based-key-value-store/typescript/solution.ts)                                |                                                      | Medium     | Hash Table, String, Binary Search, Design                          |
 | 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                     |                                                                              | [✓](./problems/medium/0994-rotting-oranges/typescript/solution.ts)                                           |                                                      | Medium     | Array, Breadth-First Search, Matrix                                |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               |                                                                              | [✓](./problems/medium/1143-longest-common-subsequence/typescript/solution.ts)                                |                                                      | Medium     | String, Dynamic Programming                                        |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                                   |                                                                              | [✓](./problems/medium/1249-minimum-remove-to-make-valid-parentheses/typescript/solution.ts)                  |                                                      | Medium     | String, Stack                                                      |
