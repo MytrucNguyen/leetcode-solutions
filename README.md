@@ -113,10 +113,10 @@ npm test 0001-two-sum
 
 ---
 
-## Progress
+### Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-184/3892-blue)
-![Easy](https://img.shields.io/badge/easy-77-green)
+![Problems Solved](https://img.shields.io/badge/solved-185/3892-blue)
+![Easy](https://img.shields.io/badge/easy-78-green)
 ![Medium](https://img.shields.io/badge/medium-102-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
@@ -307,3 +307,4 @@ npm test 0001-two-sum
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                                   |                                                                              | [✓](./problems/medium/1249-minimum-remove-to-make-valid-parentheses/typescript/solution.ts)                  |                                                      | Medium     | String, Stack                                                      |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                     |                                                                              | [✓](./problems/easy/1480-running-sum-of-1d-array/typescript/solution.ts)                                     |                                                      | Easy       | Array, Prefix Sum                                                  |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                           |                                                                              | [✓](./problems/easy/1512-number-of-good-pairs/typescript/solution.ts)                                        |                                                      | Easy       | Array, Hash Table, Math, Counting                                  |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                                 |                                                                              | [✓](./problems/easy/1768-merge-strings-alternately/typescript/solution.ts)                                   |                                                      | Easy       | Two Pointers, String                                               |
