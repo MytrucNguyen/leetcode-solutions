@@ -113,10 +113,10 @@ npm test 0001-two-sum
 
 ---
 
-### Progress
+## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-185/3892-blue)
-![Easy](https://img.shields.io/badge/easy-78-green)
+![Problems Solved](https://img.shields.io/badge/solved-186/3892-blue)
+![Easy](https://img.shields.io/badge/easy-79-green)
 ![Medium](https://img.shields.io/badge/medium-102-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
@@ -303,6 +303,7 @@ npm test 0001-two-sum
 | 981  | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                               |                                                                              | [✓](./problems/medium/0981-time-based-key-value-store/typescript/solution.ts)                                |                                                      | Medium     | Hash Table, String, Binary Search, Design                          |
 | 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                     |                                                                              | [✓](./problems/medium/0994-rotting-oranges/typescript/solution.ts)                                           |                                                      | Medium     | Array, Breadth-First Search, Matrix                                |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                                   |                                                                              | [✓](./problems/easy/1047-remove-all-adjacent-duplicates-in-string/typescript/solution.ts)                    |                                                      | Easy       | String, Stack                                                      |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                               |                                                                              | [✓](./problems/easy/1071-greatest-common-divisor-of-strings/typescript/solution.ts)                          |                                                      | Easy       | Math, String                                                       |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               |                                                                              | [✓](./problems/medium/1143-longest-common-subsequence/typescript/solution.ts)                                |                                                      | Medium     | String, Dynamic Programming                                        |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                                   |                                                                              | [✓](./problems/medium/1249-minimum-remove-to-make-valid-parentheses/typescript/solution.ts)                  |                                                      | Medium     | String, Stack                                                      |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                     |                                                                              | [✓](./problems/easy/1480-running-sum-of-1d-array/typescript/solution.ts)                                     |                                                      | Easy       | Array, Prefix Sum                                                  |
