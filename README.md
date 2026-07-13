@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-192/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-193/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-84-green)
-![Medium](https://img.shields.io/badge/medium-103-orange)
+![Medium](https://img.shields.io/badge/medium-104-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -269,6 +269,7 @@ npm test 0001-two-sum
 | 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                     |                                                                              | [✓](./problems/medium/0424-longest-repeating-character-replacement/typescript/solution.ts)                   |                                                      | Medium     | String, Hash Table, Sliding Window                                 |
 | 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                 |                                                                              | [✓](./problems/medium/0435-non-overlapping-intervals/typescript/solution.ts)                                 |                                                      | Medium     | Array, Dynamic Programming, Greedy, Sorting                        |
 | 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                                                         |                                                                              | [✓](./problems/medium/0438-find-all-anagrams-in-a-string/typescript/solution.ts)                             |                                                      | Medium     | String, Hash Table, Sliding Window                                 |
+| 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                                                               |                                                                              | [✓](./problems/medium/0443-string-compression/typescript/solution.ts)                                        |                                                      | Medium     | Two Pointers, String                                               |
 | 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                                   |                                                                              | [✓](./problems/easy/0448-find-all-numbers-disappeared-in-an-array/typescript/solution.ts)                    |                                                      | Easy       | Array, Hash Table                                                  |
 | 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                                                   |                                                                              | [✓](./problems/easy/0463-island-perimeter/typescript/solution.ts)                                            |                                                      | Easy       | Array, Depth-First Search, Matrix                                  |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                                                           |                                                                              | [✓](./problems/easy/0485-max-consecutive-ones/typescript/solution.ts)                                        |                                                      | Easy       | Array                                                              |
