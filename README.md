@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-195/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-196/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-86-green)
-![Medium](https://img.shields.io/badge/medium-104-orange)
+![Medium](https://img.shields.io/badge/medium-105-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -314,6 +314,7 @@ npm test 0001-two-sum
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                                   |                                                                              | [✓](./problems/easy/1431-kids-with-the-greatest-number-of-candies/typescript/solution.ts)                    |                                                      | Easy       | Array                                                              |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                     |                                                                              | [✓](./problems/easy/1480-running-sum-of-1d-array/typescript/solution.ts)                                     |                                                      | Easy       | Array, Prefix Sum                                                  |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                           |                                                                              | [✓](./problems/easy/1512-number-of-good-pairs/typescript/solution.ts)                                        |                                                      | Easy       | Array, Hash Table, Math, Counting                                  |
+| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                                 |                                                                              | [✓](./problems/medium/1679-max-number-of-k-sum-pairs/typescript/solution.ts)                                 |                                                      | Medium     | Array, Hash Table, Two Pointers, Sorting                           |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                                                                 |                                                                              | [✓](./problems/easy/1732-find-the-highest-altitude/typescript/solution.ts)                                   |                                                      | Easy       | Array, Prefix Sum                                                  |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                                 |                                                                              | [✓](./problems/easy/1768-merge-strings-alternately/typescript/solution.ts)                                   |                                                      | Easy       | Two Pointers, String                                               |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)                                                 |                                                                              | [✓](./problems/easy/2215-find-the-difference-of-two-arrays/typescript/solution.ts)                           |                                                      | Easy       | Array, Hash Table                                                  |
