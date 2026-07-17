@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-196/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-197/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-86-green)
-![Medium](https://img.shields.io/badge/medium-105-orange)
+![Medium](https://img.shields.io/badge/medium-106-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -317,5 +317,6 @@ npm test 0001-two-sum
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                                 |                                                                              | [✓](./problems/medium/1679-max-number-of-k-sum-pairs/typescript/solution.ts)                                 |                                                      | Medium     | Array, Hash Table, Two Pointers, Sorting                           |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                                                                 |                                                                              | [✓](./problems/easy/1732-find-the-highest-altitude/typescript/solution.ts)                                   |                                                      | Easy       | Array, Prefix Sum                                                  |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                                 |                                                                              | [✓](./problems/easy/1768-merge-strings-alternately/typescript/solution.ts)                                   |                                                      | Easy       | Two Pointers, String                                               |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                                     |                                                                              | [✓](./problems/medium/2095-delete-the-middle-node-of-a-linked-list/typescript/solution.ts)                   |                                                      | Medium     | Linked List, Two Pointers                                          |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)                                                 |                                                                              | [✓](./problems/easy/2215-find-the-difference-of-two-arrays/typescript/solution.ts)                           |                                                      | Easy       | Array, Hash Table                                                  |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                           |                                                                              | [✓](./problems/medium/2390-removing-stars-from-a-string/typescript/solution.ts)                              |                                                      | Medium     | String, Stack, Simulation                                          |
