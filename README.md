@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-198/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-199/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-86-green)
-![Medium](https://img.shields.io/badge/medium-107-orange)
+![Medium](https://img.shields.io/badge/medium-108-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -300,6 +300,7 @@ npm test 0001-two-sum
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                                   |                                                                              | [✓](./problems/easy/0746-min-cost-climbing-stairs/typescript/solution.ts)                                    |                                                      | Easy       | Array, Dynamic Programming                                         |
 | 747  | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)                                     |                                                                              | [✓](./problems/easy/0747-largest-number-at-least-twice-of-others/typescript/solution.ts)                     |                                                      | Easy       | Array, Sorting                                                     |
 | 763  | [Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                                   |                                                                              | [✓](./problems/medium/0763-partition-labels/typescript/solution.ts)                                          |                                                      | Medium     | String, Hash Table, Two Pointers, Greedy                           |
+| 841  | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                                                       |                                                                              | [✓](./problems/medium/0841-keys-and-rooms/typescript/solution.ts)                                            |                                                      | Medium     | Depth-First Search, Breadth-First Search, Graph                    |
 | 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                                                   |                                                                              | [✓](./problems/easy/0844-backspace-string-compare/typescript/solution.ts)                                    |                                                      | Easy       | Two Pointers, String, Stack                                        |
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                             |                                                                              | [✓](./problems/medium/0875-koko-eating-bananas/typescript/solution.ts)                                       |                                                      | Medium     | Array, Binary Search                                               |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                 |                                                                              | [✓](./problems/easy/0876-middle-of-the-linked-list/typescript/solution.ts)                                   |                                                      | Easy       | Linked List, Two Pointers                                          |
