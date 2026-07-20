@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-199/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-200/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-86-green)
-![Medium](https://img.shields.io/badge/medium-108-orange)
+![Medium](https://img.shields.io/badge/medium-109-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -188,6 +188,7 @@ npm test 0001-two-sum
 | 108  | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-height-balanced-bst/)                                             |                                                                              | [✓](./problems/easy/0108-convert-sorted-array-to-bst/typescript/solution.ts)                                 |                                                      | Easy       | Array, Divide and Conquer, Tree, Binary Search Tree                |
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                           |                                                                              | [✓](./problems/easy/0110-balanced-binary-tree/typescript/solution.ts)                                        |                                                      | Easy       | Tree, Depth-First Search, Binary Tree                              |
 | 114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)                                               |                                                                              | [✓](./problems/medium/0114-flatten-binary-tree-to-linked-list/typescript/solution.ts)                        |                                                      | Medium     | Linked List, Tree, Depth-First Search                              |
+| 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)                             |                                                                              | [✓](./problems/medium/0116-populating-next-right-pointers-in-each-node/typescript/solution.ts)               |                                                      | Medium     | Linked List, Tree, Depth-First Search, Breadth-First Search        |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                                  |                                                                              | [✓](./problems/easy/0118-pascals-triangle/typescript/solution.ts)                                            |                                                      | Easy       | Array, Dynamic Programming                                         |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                     | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/python/solution.py) | [✓](./problems/easy/0121-best-time-to-buy-and-sell-stock/typescript/solution.ts)                             |                                                      | Easy       | Array, Dynamic Programming                                         |
 | 124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           |                                                                              | [✓](./problems/hard/0124-binary-tree-maximum-path-sum/typescript/solution.ts)                                |                                                      | Hard       | Tree, Depth-First Search, Dynamic Programming                      |
