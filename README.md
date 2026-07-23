@@ -115,9 +115,9 @@ npm test 0001-two-sum
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/solved-200/3892-blue)
+![Problems Solved](https://img.shields.io/badge/solved-201/3892-blue)
 ![Easy](https://img.shields.io/badge/easy-86-green)
-![Medium](https://img.shields.io/badge/medium-109-orange)
+![Medium](https://img.shields.io/badge/medium-110-orange)
 ![Hard](https://img.shields.io/badge/hard-5-red)
 
 ## Problems
@@ -316,6 +316,7 @@ npm test 0001-two-sum
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               |                                                                              | [✓](./problems/medium/1143-longest-common-subsequence/typescript/solution.ts)                                |                                                      | Medium     | String, Dynamic Programming                                        |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                                   |                                                                              | [✓](./problems/medium/1249-minimum-remove-to-make-valid-parentheses/typescript/solution.ts)                  |                                                      | Medium     | String, Stack                                                      |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                                   |                                                                              | [✓](./problems/easy/1431-kids-with-the-greatest-number-of-candies/typescript/solution.ts)                    |                                                      | Easy       | Array                                                              |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                                     |                                                                              | [✓](./problems/medium/1448-count-good-nodes-in-binary-tree/typescript/solution.ts)                           |                                                      | Medium     | Tree, Depth-First Search, Binary Tree                              |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                     |                                                                              | [✓](./problems/easy/1480-running-sum-of-1d-array/typescript/solution.ts)                                     |                                                      | Easy       | Array, Prefix Sum                                                  |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                           |                                                                              | [✓](./problems/easy/1512-number-of-good-pairs/typescript/solution.ts)                                        |                                                      | Easy       | Array, Hash Table, Math, Counting                                  |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                                 |                                                                              | [✓](./problems/medium/1679-max-number-of-k-sum-pairs/typescript/solution.ts)                                 |                                                      | Medium     | Array, Hash Table, Two Pointers, Sorting                           |
